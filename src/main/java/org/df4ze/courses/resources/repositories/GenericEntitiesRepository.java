@@ -8,6 +8,8 @@ public interface GenericEntitiesRepository {
 
 	public <T> T get(Serializable id, Class<T> cl) throws EntityNotFoundException;
 
+	public <T> Iterable<T> findAll( Class<T> cl);
+	
 	<T> T save(T entity, Class<T> cl);
 
 	<T> Iterable<T> save(Iterable<T> entities, Class<T> cl);

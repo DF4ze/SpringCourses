@@ -1,12 +1,15 @@
 package org.df4ze.courses.main;
 
 import java.io.File;
+import java.io.IOException;
 
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.ParseException;
 import org.df4ze.courses.controlers.Refactorer;
 import org.df4ze.courses.controlers.Scraper;
+import org.df4ze.courses.models.Entities.CourseComplete;
 import org.df4ze.courses.resources.Debug;
+import org.df4ze.courses.services.DB2File;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class LauncherTestJPA {
@@ -73,12 +76,26 @@ public class LauncherTestJPA {
 				System.out.println("------ Refactoring done --------");
 			}
 			
+			if( line.hasOption('w') ){
+				@SuppressWarnings("unchecked")
+				DB2File<CourseComplete> db2file = ctx.getBean(DB2File.class);
+				db2file.setClazz(CourseComplete.class);
+				
+				if( line.getOptionValue('w') != null  )
+					db2file.setPath(line.getOptionValue('w'));
+				else
+					db2file.setPath("/home/Bureau/test.auto.xlsx");
+				
+				db2file.send();
+			}
 			
 			ctx.close();
 
 		} catch (ParseException e) {
 			System.out.println(e.getMessage() + "\n");
 			CommandLineMaker.printIndexingHelper();
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
 
 	}

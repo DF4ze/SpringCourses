@@ -27,6 +27,11 @@ public class GenericEntitiesRepositoryImpl implements GenericEntitiesRepository 
 	}
 
 	
+	public <T> Iterable<T> findAll( Class<T> cl) {
+		CrudRepository<T, ?> repo = new SimpleJpaRepository<T, Serializable>(cl, em);
+		return repo.findAll();
+	}
+
 	@Override
 	public <T> T save(T entity, Class<T> cl) {
 		CrudRepository<T, ?> repo = new SimpleJpaRepository<T, Serializable>(cl, em);

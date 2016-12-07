@@ -1,7 +1,5 @@
 package org.df4ze.courses.resourcesImpl.warc;
 
-import java.util.concurrent.Semaphore;
-
 import org.df4ze.courses.models.EntitiesList;
 import org.df4ze.courses.resources.warc.WarcParser;
 import org.df4ze.courses.resources.warc.WarcVisitor;
@@ -18,7 +16,6 @@ public class ParseAndStore implements WarcVisitor {
 	@Autowired
 	WarcParser parser;
 	
-	private static Semaphore sema = new Semaphore(1);
 	
 	
 	ParseAndStore() {

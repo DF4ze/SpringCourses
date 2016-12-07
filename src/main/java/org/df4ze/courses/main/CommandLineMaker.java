@@ -28,6 +28,7 @@ public class CommandLineMaker {
 		indexifyOptions.addOption("sv", "skipValidation", false, "Skip calculation and validation of the archive size (in Indexing mode)");
 		indexifyOptions.addOption("r", "refactor", false, "Launch refactoring (after Indexing if it's asked)");
 		indexifyOptions.addOption("f", "from", true, "Tel the courseID the refactoring will start");
+		indexifyOptions.addOption("w", "write", true, "Set a path to write refactored datas");
 		indexifyOptions.addOption("d", "debugMode", false, "Activate debug verbose");
 				
 		CommandLineParser parser = new BasicParser();
