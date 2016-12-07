@@ -54,4 +54,10 @@ public class CourseWrapper implements EntityWrapper {
 		return list;
 	}
 
+	@Override
+	public List<Object> getHeader() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

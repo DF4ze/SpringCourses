@@ -11,6 +11,8 @@ public interface Send2File {
 	
 	void closeFile();
 	
+	void setWriteHeader(boolean writeHeader);
+	
 	void addRow( EntityWrapper wrapper );
 	
 	void addRows( Collection<EntityWrapper> wrappers );

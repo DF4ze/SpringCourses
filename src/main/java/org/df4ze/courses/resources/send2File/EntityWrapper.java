@@ -7,4 +7,5 @@ public interface EntityWrapper {
 	public Integer getNumberOfAttributes();
 	public Object getAttribute(int number);
 	public List<Object> getAttributesList();
+	public List<Object>  getHeader();
 }

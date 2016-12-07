@@ -7,6 +7,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Collection;
 import java.util.Date;
+import java.util.List;
 
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
@@ -22,16 +23,17 @@ public class Send2Xlsx implements Send2File {
 	private XSSFSheet mySheet;
 	private XSSFWorkbook myWorkBook;
 	private File myFile;
-
+	private boolean writeHeader = false;
+	private boolean firstLine = true;
 
 	public Send2Xlsx() {
 	}
 
 	@Override
 	public void openFile(String filePath) throws IOException {
-		myFile = new File(filePath); 
-		FileInputStream fis = new FileInputStream(myFile); 
-		myWorkBook = new XSSFWorkbook (fis); 
+		myFile = new File(filePath);
+		FileInputStream fis = new FileInputStream(myFile);
+		myWorkBook = new XSSFWorkbook(fis);
 		mySheet = myWorkBook.getSheetAt(0);
 	}
 
@@ -39,16 +41,16 @@ public class Send2Xlsx implements Send2File {
 	public void createFile(String filePath) throws IOException {
 		myWorkBook = new XSSFWorkbook();
 		mySheet = myWorkBook.createSheet("CourseComplete");
-		
+
 		myFile = new File(filePath);
 		FileOutputStream fos = new FileOutputStream(myFile);
 		myWorkBook.write(fos);
 		fos.flush();
 		fos.close();
-		
+
 		openFile(filePath);
 	}
-	
+
 	@Override
 	public void closeFile() {
 		FileOutputStream os = null;
@@ -58,64 +60,77 @@ public class Send2Xlsx implements Send2File {
 		} catch (FileNotFoundException e) {
 
 		} catch (IOException e) {
-		
-		}finally {
-			if( myWorkBook != null ){
+
+		} finally {
+			if (myWorkBook != null) {
 				try {
 					myWorkBook.close();
 				} catch (IOException e) {
 				}
 				try {
-					if( os != null )
+					if (os != null)
 						os.close();
 				} catch (IOException e) {
 				}
 			}
 		}
-        
 
 	}
 
 	@Override
 	public void addRow(EntityWrapper wrapper) {
-		// get the last row number to append new data 
-		int rownum = mySheet.getLastRowNum(); 
-		Row row = mySheet.createRow(rownum++);
-		int cellnum = 0;
-		for (Object obj : wrapper.getAttributesList()) {
-			addCell2Row( row, cellnum, obj );
-			cellnum++;
-		} 
+		if (firstLine && writeHeader) {
+			firstLine = false;
+			addCells2row(wrapper.getHeader());
+		}
+
+		addCells2row(wrapper.getAttributesList());
 	}
 
 	@Override
 	public void addRows(Collection<EntityWrapper> wrappers) {
-		for( EntityWrapper wrapper : wrappers) {
+		for (EntityWrapper wrapper : wrappers) {
 			addRow(wrapper);
 		}
 	}
-	
-	private void addCell2Row( Row row, int cellnum, Object obj ){
+
+	private void addCells2row(List<Object> list) {
+		// get the last row number to append new data
+		int rownum = mySheet.getLastRowNum();
+		Row row = mySheet.createRow(rownum++);
+		int cellnum = 0;
+		for (Object obj : list) {
+			addCell2Row(row, cellnum, obj);
+			cellnum++;
+		}
+
+	}
+
+	private void addCell2Row(Row row, int cellnum, Object obj) {
 		Cell cell = row.createCell(cellnum++);
-		if( obj != null ){
-			if (obj instanceof String) { 
-				cell.setCellValue((String) obj); 
-			} else if (obj instanceof Boolean) { 
-				cell.setCellValue((Boolean) obj); 
-			} else if (obj instanceof Date) { 
-				cell.setCellValue((Date) obj); 
-			} else if (obj instanceof Double) { 
-				cell.setCellValue((Double) obj); 
-			} else if (obj instanceof Float) { 
-				cell.setCellValue((Float) obj); 
-			} else if (obj instanceof Long) { 
-				cell.setCellValue((Long) obj); 
-			} else if (obj instanceof Integer) { 
-				cell.setCellValue((Integer) obj); 
+		if (obj != null) {
+			if (obj instanceof String) {
+				cell.setCellValue((String) obj);
+			} else if (obj instanceof Boolean) {
+				cell.setCellValue((Boolean) obj);
+			} else if (obj instanceof Date) {
+				cell.setCellValue((Date) obj);
+			} else if (obj instanceof Double) {
+				cell.setCellValue((Double) obj);
+			} else if (obj instanceof Float) {
+				cell.setCellValue((Float) obj);
+			} else if (obj instanceof Long) {
+				cell.setCellValue((Long) obj);
+			} else if (obj instanceof Integer) {
+				cell.setCellValue((Integer) obj);
 			} else
-				throw new RuntimeException("Not Yet Implemented : "+obj.getClass().getName());
+				throw new RuntimeException("Not Yet Implemented : " + obj.getClass().getName());
 		}
 	}
 
+	@Override
+	public void setWriteHeader(boolean writeHeader) {
+		this.writeHeader = writeHeader;
+	}
 
 }

@@ -86,6 +86,8 @@ public class LauncherTestJPA {
 				else
 					db2file.setPath("/home/Bureau/test.auto.xlsx");
 				
+				db2file.setWriteHeader(true);
+				
 				db2file.send();
 			}
 			

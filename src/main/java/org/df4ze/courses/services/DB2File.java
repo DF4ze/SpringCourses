@@ -13,6 +13,7 @@ import org.springframework.stereotype.Component;
 public class DB2File<T extends AbstractEntity> {
 
 	private String path;
+	private boolean writeHeader;
 	private Class<T> clazz;
 	
 	@Autowired
@@ -30,7 +31,11 @@ public class DB2File<T extends AbstractEntity> {
 	}
 	
 	public void send() throws IOException{
+		send2File.setWriteHeader(writeHeader);
 		send2File.createFile(path);
+		
+		
+		
 		
 		for (T element : repository.findAll(clazz)) {
 			GenericEntityWrapper<T> wrapper = new GenericEntityWrapper<>(element, clazz);
@@ -55,6 +60,10 @@ public class DB2File<T extends AbstractEntity> {
 
 	public void setClazz(Class<T> clazz) {
 		this.clazz = clazz;
+	}
+
+	public void setWriteHeader(boolean writeHeader) {
+		this.writeHeader = writeHeader;
 	}
 
 }
