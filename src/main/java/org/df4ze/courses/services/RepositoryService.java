@@ -43,28 +43,27 @@ public class RepositoryService {
 	public void add(AbstractEntity entity) {
 		if (entity instanceof Arrivee) {
 			Arrivee a = (Arrivee) entity;
-			arriveeRepository.save(a);
+			arriveeRepository.saveAndFlush(a);
 
 		} else if (entity instanceof Cote) {
 			Cote new_name = (Cote) entity;
-			coteRepository.save(new_name);
+			coteRepository.saveAndFlush(new_name);
 
 		} else if (entity instanceof CourseComplete) {
 			CourseComplete new_name = (CourseComplete) entity;
-			courseCompleteRepository.save(new_name);
+			courseCompleteRepository.saveAndFlush(new_name);
 
 		} else if (entity instanceof Course) {
 			Course new_name = (Course) entity;
-			courseRepository.save(new_name);
+			courseRepository.saveAndFlush(new_name);
 
 		} else if (entity instanceof Partant) {
 			Partant new_name = (Partant) entity;
-			partantRepository.save(new_name);
+			partantRepository.saveAndFlush(new_name);
 
 		} else if (entity instanceof Rapport) {
 			Rapport new_name = (Rapport) entity;
-			rapportRepository.save(new_name);
-
+			rapportRepository.saveAndFlush(new_name);
 		}
 	}
 

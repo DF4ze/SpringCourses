@@ -25,6 +25,7 @@ public class Send2Xlsx implements Send2File {
 	private File myFile;
 	private boolean writeHeader = false;
 	private boolean firstLine = true;
+	private int rownum;
 
 	public Send2Xlsx() {
 	}
@@ -35,6 +36,8 @@ public class Send2Xlsx implements Send2File {
 		FileInputStream fis = new FileInputStream(myFile);
 		myWorkBook = new XSSFWorkbook(fis);
 		mySheet = myWorkBook.getSheetAt(0);
+		// get the last row number to append new data
+		rownum = mySheet.getLastRowNum();
 	}
 
 	@Override
@@ -49,6 +52,8 @@ public class Send2Xlsx implements Send2File {
 		fos.close();
 
 		openFile(filePath);
+
+		rownum = 0;
 	}
 
 	@Override
@@ -85,6 +90,7 @@ public class Send2Xlsx implements Send2File {
 		}
 
 		addCells2row(wrapper.getAttributesList());
+		
 	}
 
 	@Override
@@ -95,19 +101,18 @@ public class Send2Xlsx implements Send2File {
 	}
 
 	private void addCells2row(List<Object> list) {
-		// get the last row number to append new data
-		int rownum = mySheet.getLastRowNum();
-		Row row = mySheet.createRow(rownum++);
+
+		Row row = mySheet.createRow(rownum);
 		int cellnum = 0;
 		for (Object obj : list) {
 			addCell2Row(row, cellnum, obj);
 			cellnum++;
 		}
-
+		rownum++;
 	}
 
 	private void addCell2Row(Row row, int cellnum, Object obj) {
-		Cell cell = row.createCell(cellnum++);
+		Cell cell = row.createCell(cellnum);
 		if (obj != null) {
 			if (obj instanceof String) {
 				cell.setCellValue((String) obj);
@@ -126,6 +131,7 @@ public class Send2Xlsx implements Send2File {
 			} else
 				throw new RuntimeException("Not Yet Implemented : " + obj.getClass().getName());
 		}
+		
 	}
 
 	@Override

@@ -68,8 +68,8 @@ public class LauncherTestJPA {
 				Refactorer refactorer = ctx.getBean(Refactorer.class);
 				
 				Long from = null;
-				if( line.getOptionValue('r') != null )
-					from = Long.parseLong(line.getOptionValue('r'));
+				if( line.getOptionValue('f') != null )
+					from = Long.parseLong(line.getOptionValue('f'));
 				
 				System.out.println("------ Start Refactoring --------");
 				refactorer.makeCourseComplete(from);
@@ -77,6 +77,7 @@ public class LauncherTestJPA {
 			}
 			
 			if( line.hasOption('w') ){
+				System.out.println("------ Start Writing --------");
 				@SuppressWarnings("unchecked")
 				DB2File<CourseComplete> db2file = ctx.getBean(DB2File.class);
 				db2file.setClazz(CourseComplete.class);
@@ -89,6 +90,7 @@ public class LauncherTestJPA {
 				db2file.setWriteHeader(true);
 				
 				db2file.send();
+				System.out.println("------ Writing done --------");
 			}
 			
 			ctx.close();

@@ -12,4 +12,7 @@ public interface CourseRepository extends JpaRepository<Course, Long> {
 	
 	@Query("from Course where ?1 <= courseID ")
 	List<Course> findAllFrom( Long courseID );
+	
+	@Query("from Course where ?1 <= courseID and ?2 >= courseID")
+	List<Course> findAllBetween( Long courseIDStart, Long courseIDStop );
 }
