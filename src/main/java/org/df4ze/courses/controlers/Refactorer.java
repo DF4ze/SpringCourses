@@ -1,16 +1,21 @@
 package org.df4ze.courses.controlers;
 
+import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import org.df4ze.courses.models.AbstractEntity;
 import org.df4ze.courses.models.Entities.Arrivee;
 import org.df4ze.courses.models.Entities.Cote;
 import org.df4ze.courses.models.Entities.Course;
 import org.df4ze.courses.models.Entities.CourseComplete;
 import org.df4ze.courses.models.Entities.Partant;
 import org.df4ze.courses.models.Entities.Rapport;
+import org.df4ze.courses.resources.Chrono;
+import org.df4ze.courses.resources.Debug;
 import org.df4ze.courses.resources.repositories.ArriveeRepository;
 import org.df4ze.courses.resources.repositories.CoteRepository;
 import org.df4ze.courses.resources.repositories.CourseRepository;
@@ -38,7 +43,8 @@ public class Refactorer {
 	@Autowired
 	private transient RepositoryService repository;
 
-	private transient final int cycleStep = 100;
+	private transient final int cycleStep = 50;
+
 	// private Semaphore sema = new Semaphore(1);
 
 	private static Long from = null;
@@ -58,10 +64,14 @@ public class Refactorer {
 		int stepDone = 1;
 		// long lastCourse = from;
 
+		Chrono stepChrono = new Chrono(Debug.isEnable());
+		
 		while (stepDone != 0) {
 			stepDone = 0;
+			stepChrono.pick();
+			
 			// from = lastCourse;
-
+			Collection<AbstractEntity> computedBuffer = new ArrayList<>();
 			if (from != null) {
 				String texte = "Starting from id " + from;
 				System.out.println(texte);
@@ -86,11 +96,16 @@ public class Refactorer {
 
 				////////////////////////////////////
 				// Infos Rapport
-
+				Chrono actChrono = new Chrono(false);
+				actChrono.pick();
 				Set<Rapport> rapportsList = rapportRepository.findByCourseID(course.getId());
+				actChrono.compare("Lecture rapport");
+				
+				
 				if (rapportsList.size() == 0)
 					continue;
 
+				actChrono.pick();
 				for (Rapport unRap : rapportsList) {
 
 					if (unRap.getArrivee() == 1) {
@@ -111,6 +126,7 @@ public class Refactorer {
 				}
 				rapportsList.clear();
 				rapportsList = null;
+				actChrono.compare("Rapport Compute");
 
 				////////////////////////////////////
 				// Infos Cote
@@ -122,10 +138,14 @@ public class Refactorer {
 				Cote cotePrCtDeuz = null;
 				Cote cotePrCtTroiz = null;
 
+				actChrono.pick();
 				Set<Cote> cotesList = coteRepository.findByCourseID(course.getId());
+				actChrono.compare("Read cote");
+				
 				if (cotesList.size() == 0)
 					continue;
 
+				actChrono.pick();
 				cc.setNombrePartant(cotesList.size());
 
 				// On recupere les 3 favoris : cote < 5
@@ -257,11 +277,18 @@ public class Refactorer {
 				// coteFavTroiz.getNumCheval() == cc.getNumeroChvlTroisieme() )
 				// nbInf5Place ++;
 				cc.setNombreChvlFavoriPlace(nbInf5Place);
-
+				
+				actChrono.compare("cote compute");
+				
+				
+				
 				///////////////////////////
 				// Arrivees
+				actChrono.pick();
 				Set<Arrivee> arrivees = arriveeRepository.findByCourseID(course.getId());
-
+				actChrono.compare("Read arrivee");
+				
+				actChrono.pick();
 				Map<Integer, String> resultats = getNomFromPlace(arrivees);
 
 				try {
@@ -285,13 +312,18 @@ public class Refactorer {
 				}
 				resultats.clear();
 				resultats = null;
-
+				actChrono.compare("Arrivee compute");
+				
 				//////////////////////////////
 				// Info partant
 				int ageMin = 30;
 				int ageMax = 0;
 
+				actChrono.pick();
 				Set<Partant> partantsListe = partantRepository.findByCourseID(course.getId());
+				actChrono.compare("Read partant");
+				
+				actChrono.pick();
 				Partant ChvBestGains = null;
 				if (partantsListe.size() != 0) {
 					// on fait le tour de tout les partant de cette course
@@ -348,11 +380,13 @@ public class Refactorer {
 				}
 				partantsListe.clear();
 				partantsListe = null;
+				actChrono.compare("Partants compute");
 
 				///////////////////////////
 				// envoi BDD
-				repository.add(cc);
-				System.out.println("Insert ok for courseID : " + course.getId());
+				//repository.add(cc);
+				computedBuffer.add(cc);
+				System.out.println("Computed ok for courseID : " + course.getId());
 
 				cc = null;
 
@@ -362,6 +396,14 @@ public class Refactorer {
 					break;
 				}
 			}
+			repository.addAll(computedBuffer);
+			computedBuffer.clear();
+			
+			System.out.println( "==============> Computed saved" );
+			long time = stepChrono.compare(cycleStep+" steps in ");
+			if(Debug.isEnable())
+				System.out.println((time/cycleStep)+"ms / step");
+			
 			coursesList.clear();
 			coursesList = null;
 			System.gc();
@@ -386,5 +428,8 @@ public class Refactorer {
 
 		return ret;
 	}
+
+
+	
 
 }

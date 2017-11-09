@@ -48,6 +48,9 @@ public class WarcReader {
 			}
 		});
 		
+		if( arcFiles == null )
+			throw new RuntimeException("Folder seems empty or maybe you insert a fileName instead of a folderName?");
+		
 		return new ArrayList<File>(  Arrays.asList(arcFiles) );
 	}
 	

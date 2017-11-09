@@ -31,6 +31,7 @@ public class LauncherTestJPA {
 
 		try {
 			CommandLine line = CommandLineMaker.getIndexingCommandLine(args);
+			boolean problem = false;
 
 			if (line.hasOption('d')) {
 				Debug.setEnable(true);
@@ -59,12 +60,14 @@ public class LauncherTestJPA {
 					System.out.println("------ Indexing done --------");
 
 				} catch (Exception e) {
-					e.printStackTrace();
 					System.err.println("------ Indexing aborded --------");
+					e.printStackTrace();
+					problem = true;
+					//throw new RuntimeException(e);
 				}
 			}
 			
-			if( line.hasOption('r') ){
+			if( line.hasOption('r') && !problem){
 				Refactorer refactorer = ctx.getBean(Refactorer.class);
 				
 				Long from = null;
@@ -76,7 +79,7 @@ public class LauncherTestJPA {
 				System.out.println("------ Refactoring done --------");
 			}
 			
-			if( line.hasOption('w') ){
+			if( line.hasOption('w') && !problem){
 				System.out.println("------ Start Writing --------");
 				@SuppressWarnings("unchecked")
 				DB2File<CourseComplete> db2file = ctx.getBean(DB2File.class);

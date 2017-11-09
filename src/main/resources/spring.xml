@@ -32,12 +32,10 @@
 <!--         <property name="username" value="sa" /> -->
 <!--         <property name="password" value="" /> -->
 <!--     </bean> -->
+
 	<bean name="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 	    <property name="driverClassName" value="com.mysql.jdbc.Driver" />
-	    <property name="url" value="jdbc:mysql://localhost:3306/coursesTest?useSSL=false&amp;connectTimeout=350000&amp;socketTimeout=350000&amp;autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=UTF-8" />
-<!-- 	    <property name="useSSL" value="false"/> -->
-<!-- 	    <property name="autoReconnect" value="true"/> -->
-<!-- 	    "jdbc:mysql://localhost/coursesTest?user="+sqlUser+"&password="+sqlPassword+"&connectTimeout=350000&socketTimeout=350000&autoReconnect=true&useUnicode=true&characterEncoding=UTF-8 -->
+	    <property name="url" value="jdbc:mysql://localhost:3306/courses?useSSL=false&amp;connectTimeout=350000&amp;socketTimeout=350000&amp;autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=UTF-8" />
 	    <property name="username" value="root" />
 	    <property name="password" value="Banzai31" />
 	</bean>
