@@ -39,7 +39,7 @@
 <!-- 	    <property name="autoReconnect" value="true"/> -->
 <!-- 	    "jdbc:mysql://localhost/coursesTest?user="+sqlUser+"&password="+sqlPassword+"&connectTimeout=350000&socketTimeout=350000&autoReconnect=true&useUnicode=true&characterEncoding=UTF-8 -->
 	    <property name="username" value="root" />
-	    <property name="password" value="Banzai31" />
+	    <property name="password" value="root" />
 	</bean>
 
     <!-- EntityManagerFactory -->

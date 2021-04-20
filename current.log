@@ -1,0 +1,1900 @@
+2021/04/20 11:57:40	
+
+ -------------- Starting --------------
+2021/04/20 11:57:43	
+
+Reading WEB-20210329141003021-00000-7556~DESKTOP-N1PP6S7~9050.warc.gz
+2021/04/20 11:57:43	Num course : null
+2021/04/20 11:57:43	Num course : null
+2021/04/20 11:57:43	Num course : null
+2021/04/20 11:57:43	Num course : null
+2021/04/20 11:57:43	Num course : null
+2021/04/20 11:57:43	Num course : null
+2021/04/20 11:57:43	Num course : null
+2021/04/20 11:57:43	Num course : null
+2021/04/20 11:57:43	Num course : null
+2021/04/20 11:57:43	Num course : null
+2021/04/20 11:57:43	Num course : 1213811
+2021/04/20 11:57:43	Num course : 1213811
+2021/04/20 11:57:43	Adding rapport : Rapport [id=null, courseID=1213811, numCheval=2, arrivee=3, place=3.2, gagnant=null]
+2021/04/20 11:57:43	Num course : 1213811
+2021/04/20 11:57:43	Adding arrivees : org.df4ze.courses.models.EntitiesList@1b8aabc
+2021/04/20 11:57:43	Num course : 1213811
+2021/04/20 11:57:43	Num course : 1213811
+2021/04/20 11:57:43	Num course : 1213805
+2021/04/20 11:57:43	Adding course : Course [courseID=1213805, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=8, prix=Prix Mitsouko III, type=Steeple-chase, prime=52 000, depart=non]
+2021/04/20 11:57:43	Num course : 1213805
+2021/04/20 11:57:43	Adding rapport : Rapport [id=null, courseID=1213805, numCheval=4, arrivee=3, place=1.6, gagnant=null]
+2021/04/20 11:57:43	Num course : 1213805
+2021/04/20 11:57:43	Adding arrivees : org.df4ze.courses.models.EntitiesList@11d3c8
+2021/04/20 11:57:43	Num course : 1213805
+2021/04/20 11:57:43	Num course : 1213805
+2021/04/20 11:57:43	Num course : 1213631
+2021/04/20 11:57:43	Adding course : Course [courseID=1213631, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=8, prix=Prix du Ternois, type=Attelé, prime=5 000, depart=non]
+2021/04/20 11:57:43	Num course : 1213631
+2021/04/20 11:57:43	Num course : 1213631
+2021/04/20 11:57:43	Adding arrivees : org.df4ze.courses.models.EntitiesList@b41097
+2021/04/20 11:57:43	Num course : 1213631
+2021/04/20 11:57:43	Num course : 1213631
+2021/04/20 11:57:43	Num course : 1213964
+2021/04/20 11:57:43	Adding course : Course [courseID=1213964, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=7, prix=Preis Von trotto.de, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:43	Num course : 1213964
+2021/04/20 11:57:43	Adding rapport : Rapport [id=null, courseID=1213964, numCheval=8, arrivee=3, place=3.0, gagnant=null]
+2021/04/20 11:57:43	Num course : 1213964
+2021/04/20 11:57:43	Adding arrivees : org.df4ze.courses.models.EntitiesList@f2ce6b
+2021/04/20 11:57:43	Num course : 1213964
+2021/04/20 11:57:43	Num course : 1213964
+2021/04/20 11:57:43	Num course : 1213862
+2021/04/20 11:57:43	Adding course : Course [courseID=1213862, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=6, prix=Prix Doria Desbois, type=Attelé, prime=18 000, depart=non]
+2021/04/20 11:57:43	Num course : 1213862
+2021/04/20 11:57:43	Num course : 1213862
+2021/04/20 11:57:43	Num course : 1213862
+2021/04/20 11:57:43	Num course : 1213862
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=1, cote=65.0, enjeux=1.3]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=2, cote=198.0, enjeux=0.4]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=3, cote=86.0, enjeux=1.0]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=4, cote=25.0, enjeux=3.3]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=5, cote=61.0, enjeux=1.4]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=6, cote=191.0, enjeux=0.4]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=7, cote=2.1, enjeux=39.8]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=8, cote=62.0, enjeux=1.3]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=9, cote=29.0, enjeux=2.9]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=10, cote=9.3, enjeux=9.0]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=11, cote=4.0, enjeux=20.9]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=12, cote=155.0, enjeux=0.5]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=13, cote=118.0, enjeux=0.7]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=14, cote=72.0, enjeux=1.2]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=15, cote=151.0, enjeux=0.6]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=16, cote=11.0, enjeux=7.6]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=17, cote=13.0, enjeux=6.4]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213862, numCheval=18, cote=62.0, enjeux=1.3]
+2021/04/20 11:57:43	Num course : 1213792
+2021/04/20 11:57:43	Adding course : Course [courseID=1213792, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=2, prix=Und Rennverein Von 1844 e.v., type=Plat, prime=3 500, depart=non]
+2021/04/20 11:57:43	Num course : 1213792
+2021/04/20 11:57:43	Adding rapport : Rapport [id=null, courseID=1213792, numCheval=3, arrivee=3, place=2.1, gagnant=null]
+2021/04/20 11:57:43	Num course : 1213792
+2021/04/20 11:57:43	Adding arrivees : org.df4ze.courses.models.EntitiesList@1b0ae4c
+2021/04/20 11:57:43	Num course : 1213792
+2021/04/20 11:57:43	Num course : 1213792
+2021/04/20 11:57:43	Num course : 1213696
+2021/04/20 11:57:43	Adding course : Course [courseID=1213696, date=2021-03-28, hippodrome=  Nîmes , reunion=8, course=8, prix=Prix Vans Barbot, type=Attelé, prime=16 000, depart=non]
+2021/04/20 11:57:43	Num course : 1213696
+2021/04/20 11:57:43	Num course : 1213696
+2021/04/20 11:57:43	Num course : 1213696
+2021/04/20 11:57:43	Num course : 1213696
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=1, cote=115.0, enjeux=0.7]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=2, cote=42.0, enjeux=2.0]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=3, cote=99.0, enjeux=0.9]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=4, cote=27.0, enjeux=3.1]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=5, cote=36.0, enjeux=2.3]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=6, cote=8.1, enjeux=10.4]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=7, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=8, cote=6.2, enjeux=13.6]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=9, cote=1.9, enjeux=44.5]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=10, cote=6.7, enjeux=12.6]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=11, cote=34.0, enjeux=2.5]
+2021/04/20 11:57:43	Adding cote : Cote [id=null, courseID=1213696, numCheval=12, cote=30.0, enjeux=2.8]
+2021/04/20 11:57:43	Num course : 1213866
+2021/04/20 11:57:43	Adding course : Course [courseID=1213866, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=3, prix=Prix Bernard de Montigny, type=Steeple-chase, prime=18 000, depart=non]
+2021/04/20 11:57:43	Num course : 1213866
+2021/04/20 11:57:43	Num course : 1213866
+2021/04/20 11:57:43	Adding arrivees : org.df4ze.courses.models.EntitiesList@18260a6
+2021/04/20 11:57:43	Num course : 1213866
+2021/04/20 11:57:43	Num course : 1213866
+2021/04/20 11:57:43	Num course : 1213897
+2021/04/20 11:57:43	Adding course : Course [courseID=1213897, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=8, prix=Prix des Myrtilles, type=Plat, prime=19 000, depart=non]
+2021/04/20 11:57:43	Num course : 1213897
+2021/04/20 11:57:43	Num course : 1213897
+2021/04/20 11:57:43	Adding arrivees : org.df4ze.courses.models.EntitiesList@14cd155
+2021/04/20 11:57:43	Num course : 1213897
+2021/04/20 11:57:43	Num course : 1213897
+2021/04/20 11:57:43	Num course : 1213833
+2021/04/20 11:57:43	Adding course : Course [courseID=1213833, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=5, prix=Prix des Hortillonnages, type=Plat, prime=19 000, depart=non]
+2021/04/20 11:57:43	Num course : 1213833
+2021/04/20 11:57:43	Adding rapport : Rapport [id=null, courseID=1213833, numCheval=12, arrivee=3, place=8.2, gagnant=null]
+2021/04/20 11:57:43	Num course : 1213833
+2021/04/20 11:57:43	Adding arrivees : org.df4ze.courses.models.EntitiesList@1e7bf6d
+2021/04/20 11:57:43	Num course : 1213833
+2021/04/20 11:57:43	Num course : 1213833
+2021/04/20 11:57:43	Num course : 1213662
+2021/04/20 11:57:43	Adding course : Course [courseID=1213662, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=3, prix=Prix des Macarons, type=Attelé, prime=16 000, depart=non]
+2021/04/20 11:57:43	Num course : 1213662
+2021/04/20 11:57:43	Num course : 1213662
+2021/04/20 11:57:43	Adding arrivees : org.df4ze.courses.models.EntitiesList@1917fb0
+2021/04/20 11:57:43	Num course : 1213662
+2021/04/20 11:57:43	Num course : 1213662
+2021/04/20 11:57:44	Num course : 1213633
+2021/04/20 11:57:44	Adding course : Course [courseID=1213633, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=6, prix=Prix Loc@t'me, type=Attelé, prime=15 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213633
+2021/04/20 11:57:44	Num course : 1213633
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@18a2b4c
+2021/04/20 11:57:44	Num course : 1213633
+2021/04/20 11:57:44	Num course : 1213633
+2021/04/20 11:57:44	Num course : 1213661
+2021/04/20 11:57:44	Adding course : Course [courseID=1213661, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=2, prix=Prix Tony M, type=Attelé, prime=12 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213661
+2021/04/20 11:57:44	Num course : 1213661
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@17835a8
+2021/04/20 11:57:44	Num course : 1213661
+2021/04/20 11:57:44	Num course : 1213661
+2021/04/20 11:57:44	Num course : 1213632
+2021/04/20 11:57:44	Adding course : Course [courseID=1213632, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=4, prix=Prix du Cantal, type=Attelé, prime=14 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213632
+2021/04/20 11:57:44	Num course : 1213632
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@17c4456
+2021/04/20 11:57:44	Num course : 1213632
+2021/04/20 11:57:44	Num course : 1213632
+2021/04/20 11:57:44	Num course : 1213965
+2021/04/20 11:57:44	Adding course : Course [courseID=1213965, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=8, prix=Grosser Preis Der Österreichischen Lotterien, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:44	Num course : 1213965
+2021/04/20 11:57:44	Num course : 1213965
+2021/04/20 11:57:44	Num course : 1213965
+2021/04/20 11:57:44	Num course : 1213965
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213965, numCheval=1, cote=115.0, enjeux=0.7]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213965, numCheval=2, cote=1.3, enjeux=64.1]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213965, numCheval=3, cote=13.0, enjeux=6.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213965, numCheval=4, cote=39.0, enjeux=2.1]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213965, numCheval=5, cote=59.0, enjeux=1.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213965, numCheval=6, cote=4.9, enjeux=17.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213965, numCheval=7, cote=46.0, enjeux=1.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213965, numCheval=8, cote=22.0, enjeux=3.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213965, numCheval=9, cote=32.0, enjeux=2.6]
+2021/04/20 11:57:44	Num course : 1213835
+2021/04/20 11:57:44	Adding course : Course [courseID=1213835, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=2, prix=Prix d'Albert, type=Plat, prime=15 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213835
+2021/04/20 11:57:44	Num course : 1213835
+2021/04/20 11:57:44	Num course : 1213835
+2021/04/20 11:57:44	Num course : 1213835
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=1, cote=4.7, enjeux=17.9]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=2, cote=12.0, enjeux=7.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=3, cote=5.5, enjeux=15.3]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=4, cote=22.0, enjeux=3.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=5, cote=13.0, enjeux=6.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=6, cote=47.0, enjeux=1.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=7, cote=15.0, enjeux=5.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=8, cote=48.0, enjeux=1.7]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=9, cote=7.9, enjeux=10.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=10, cote=8.1, enjeux=10.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=11, cote=28.0, enjeux=3.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=12, cote=27.0, enjeux=3.1]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=13, cote=9.9, enjeux=8.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213835, numCheval=14, cote=17.0, enjeux=4.9]
+2021/04/20 11:57:44	Num course : 1213832
+2021/04/20 11:57:44	Adding course : Course [courseID=1213832, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=1, prix=Prix de Roye, type=Plat, prime=19 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213832
+2021/04/20 11:57:44	Adding rapport : Rapport [id=null, courseID=1213832, numCheval=5, arrivee=3, place=1.5, gagnant=null]
+2021/04/20 11:57:44	Num course : 1213832
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@178ed6a
+2021/04/20 11:57:44	Num course : 1213832
+2021/04/20 11:57:44	Num course : 1213832
+2021/04/20 11:57:44	Num course : 1213791
+2021/04/20 11:57:44	Adding course : Course [courseID=1213791, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=1, prix=Sport-Welt Auftaktrennen, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:44	Num course : 1213791
+2021/04/20 11:57:44	Num course : 1213791
+2021/04/20 11:57:44	Num course : 1213791
+2021/04/20 11:57:44	Num course : 1213791
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213791, numCheval=1, cote=5.1, enjeux=16.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213791, numCheval=2, cote=2.3, enjeux=36.3]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213791, numCheval=4, cote=2.4, enjeux=34.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213791, numCheval=5, cote=20.0, enjeux=4.2]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213791, numCheval=6, cote=10.0, enjeux=8.4]
+2021/04/20 11:57:44	Num course : 1213807
+2021/04/20 11:57:44	Num course : 1213807
+2021/04/20 11:57:44	Num course : 1213807
+2021/04/20 11:57:44	Num course : 1213807
+2021/04/20 11:57:44	Num course : 1213807
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213807, numCheval=1, cote=5.4, enjeux=15.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213807, numCheval=2, cote=8.2, enjeux=10.1]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213807, numCheval=3, cote=12.0, enjeux=6.9]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213807, numCheval=4, cote=2.4, enjeux=34.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213807, numCheval=5, cote=55.0, enjeux=1.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213807, numCheval=6, cote=3.9, enjeux=21.3]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213807, numCheval=7, cote=30.0, enjeux=2.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213807, numCheval=8, cote=13.0, enjeux=6.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213807, numCheval=9, cote=84.0, enjeux=1.0]
+2021/04/20 11:57:44	Num course : 1213811
+2021/04/20 11:57:44	Num course : 1213811
+2021/04/20 11:57:44	Num course : 1213811
+2021/04/20 11:57:44	Num course : 1213811
+2021/04/20 11:57:44	Num course : 1213811
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=1, cote=6.1, enjeux=13.7]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=2, cote=13.0, enjeux=6.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=3, cote=3.3, enjeux=25.3]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=4, cote=16.0, enjeux=5.2]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=5, cote=9.9, enjeux=8.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=6, cote=22.0, enjeux=3.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=7, cote=26.0, enjeux=3.2]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=8, cote=41.0, enjeux=2.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=9, cote=16.0, enjeux=5.2]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=10, cote=9.7, enjeux=8.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=11, cote=15.0, enjeux=5.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=12, cote=11.0, enjeux=7.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=13, cote=85.0, enjeux=1.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=14, cote=76.0, enjeux=1.1]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=15, cote=58.0, enjeux=1.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213811, numCheval=16, cote=64.0, enjeux=1.3]
+2021/04/20 11:57:44	Num course : 1213861
+2021/04/20 11:57:44	Adding course : Course [courseID=1213861, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=5, prix=Prix du Casino de Barbotan-Les-Thermes, type=Attelé, prime=20 000, depart=oui]
+2021/04/20 11:57:44	Num course : 1213861
+2021/04/20 11:57:44	Num course : 1213861
+2021/04/20 11:57:44	Num course : 1213861
+2021/04/20 11:57:44	Num course : 1213861
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=1, cote=3.8, enjeux=22.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=2, cote=79.0, enjeux=1.1]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=3, cote=20.0, enjeux=4.2]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=4, cote=10.0, enjeux=8.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=5, cote=3.3, enjeux=25.3]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=6, cote=12.0, enjeux=7.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=7, cote=9.8, enjeux=8.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=8, cote=4.8, enjeux=17.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=9, cote=140.0, enjeux=0.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=10, cote=138.0, enjeux=0.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=11, cote=117.0, enjeux=0.7]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=12, cote=23.0, enjeux=3.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213861, numCheval=13, cote=147.0, enjeux=0.6]
+2021/04/20 11:57:44	Num course : 1213793
+2021/04/20 11:57:44	Adding course : Course [courseID=1213793, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=3, prix=Maiden-Cup Der Stiftung It's For Kids, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:44	Num course : 1213793
+2021/04/20 11:57:44	Num course : 1213793
+2021/04/20 11:57:44	Num course : 1213793
+2021/04/20 11:57:44	Num course : 1213793
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213793, numCheval=1, cote=6.8, enjeux=12.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213793, numCheval=2, cote=5.6, enjeux=15.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213793, numCheval=4, cote=4.2, enjeux=20.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213793, numCheval=5, cote=4.8, enjeux=17.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213793, numCheval=6, cote=5.8, enjeux=14.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213793, numCheval=7, cote=5.3, enjeux=15.9]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213793, numCheval=8, cote=18.0, enjeux=4.7]
+2021/04/20 11:57:44	Num course : 1213861
+2021/04/20 11:57:44	Adding course : Course [courseID=1213861, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=5, prix=Prix du Casino de Barbotan-Les-Thermes, type=Attelé, prime=20 000, depart=oui]
+2021/04/20 11:57:44	Num course : 1213861
+2021/04/20 11:57:44	Adding rapport : Rapport [id=null, courseID=1213861, numCheval=4, arrivee=3, place=2.4, gagnant=null]
+2021/04/20 11:57:44	Num course : 1213861
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@1e20ad5
+2021/04/20 11:57:44	Num course : 1213861
+2021/04/20 11:57:44	Num course : 1213861
+2021/04/20 11:57:44	Num course : 1213812
+2021/04/20 11:57:44	Adding course : Course [courseID=1213812, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=3, prix=Prix Lutteur III, type=Steeple-chase, prime=120 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213812
+2021/04/20 11:57:44	Adding rapport : Rapport [id=null, courseID=1213812, numCheval=4, arrivee=3, place=1.7, gagnant=null]
+2021/04/20 11:57:44	Num course : 1213812
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@1459ea
+2021/04/20 11:57:44	Num course : 1213812
+2021/04/20 11:57:44	Num course : 1213812
+2021/04/20 11:57:44	Num course : 1213629
+2021/04/20 11:57:44	Adding course : Course [courseID=1213629, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=7, prix=Critérium de Trot de Lyon, type=Attelé, prime=35 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213629
+2021/04/20 11:57:44	Adding rapport : Rapport [id=null, courseID=1213629, numCheval=13, arrivee=3, place=4.0, gagnant=null]
+2021/04/20 11:57:44	Num course : 1213629
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@53b094
+2021/04/20 11:57:44	Num course : 1213629
+2021/04/20 11:57:44	Num course : 1213629
+2021/04/20 11:57:44	Num course : 1213860
+2021/04/20 11:57:44	Adding course : Course [courseID=1213860, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=3, prix=Prix de la Boulangerie Adoue, type=Attelé, prime=20 000, depart=oui]
+2021/04/20 11:57:44	Num course : 1213860
+2021/04/20 11:57:44	Num course : 1213860
+2021/04/20 11:57:44	Num course : 1213860
+2021/04/20 11:57:44	Num course : 1213860
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213860, numCheval=1, cote=36.0, enjeux=2.3]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213860, numCheval=2, cote=1.9, enjeux=43.7]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213860, numCheval=3, cote=55.0, enjeux=1.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213860, numCheval=4, cote=9.0, enjeux=9.2]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213860, numCheval=5, cote=29.0, enjeux=2.9]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213860, numCheval=6, cote=2.7, enjeux=30.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213860, numCheval=7, cote=13.0, enjeux=6.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213860, numCheval=8, cote=26.0, enjeux=3.2]
+2021/04/20 11:57:44	Num course : 1213831
+2021/04/20 11:57:44	Adding course : Course [courseID=1213831, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=7, prix=Prix de Longpré, type=Plat, prime=12 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213831
+2021/04/20 11:57:44	Num course : 1213831
+2021/04/20 11:57:44	Num course : 1213831
+2021/04/20 11:57:44	Num course : 1213831
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213831, numCheval=1, cote=4.0, enjeux=20.9]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213831, numCheval=2, cote=10.0, enjeux=8.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213831, numCheval=3, cote=2.0, enjeux=41.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213831, numCheval=4, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213831, numCheval=5, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213831, numCheval=6, cote=105.0, enjeux=0.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213831, numCheval=7, cote=12.0, enjeux=7.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213831, numCheval=8, cote=30.0, enjeux=2.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213831, numCheval=9, cote=57.0, enjeux=1.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213831, numCheval=10, cote=13.0, enjeux=6.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213831, numCheval=11, cote=48.0, enjeux=1.7]
+2021/04/20 11:57:44	Num course : 1214242
+2021/04/20 11:57:44	Adding course : Course [courseID=1214242, date=2021-03-28, hippodrome=  Sha Tin (Hong Kong) , reunion=6, course=8, prix=Shui Long Wo Handicap, type=Plat, prime=163 276, depart=non]
+2021/04/20 11:57:44	Num course : 1214242
+2021/04/20 11:57:44	Num course : 1214242
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@2ae7b6
+2021/04/20 11:57:44	Num course : 1214242
+2021/04/20 11:57:44	Num course : 1214242
+2021/04/20 11:57:44	Num course : 1213803
+2021/04/20 11:57:44	Adding course : Course [courseID=1213803, date=2021-03-28, hippodrome=  Geraldton [Australie] , reunion=7, course=3, prix=Tabtouch Handicap, type=Plat, prime=12 248, depart=non]
+2021/04/20 11:57:44	Num course : 1213803
+2021/04/20 11:57:44	Adding rapport : Rapport [id=null, courseID=1213803, numCheval=1, arrivee=2, place=1.3, gagnant=null]
+2021/04/20 11:57:44	Num course : 1213803
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@1361cf6
+2021/04/20 11:57:44	Num course : 1213803
+2021/04/20 11:57:44	Num course : 1213803
+2021/04/20 11:57:44	Num course : 1213792
+2021/04/20 11:57:44	Adding course : Course [courseID=1213792, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=2, prix=Und Rennverein Von 1844 e.v., type=Plat, prime=3 500, depart=non]
+2021/04/20 11:57:44	Num course : 1213792
+2021/04/20 11:57:44	Num course : 1213792
+2021/04/20 11:57:44	Num course : 1213792
+2021/04/20 11:57:44	Num course : 1213792
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213792, numCheval=1, cote=6.6, enjeux=12.7]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213792, numCheval=2, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213792, numCheval=3, cote=4.4, enjeux=19.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213792, numCheval=4, cote=11.0, enjeux=7.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213792, numCheval=5, cote=6.4, enjeux=13.1]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213792, numCheval=6, cote=20.0, enjeux=4.2]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213792, numCheval=7, cote=33.0, enjeux=2.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213792, numCheval=8, cote=2.7, enjeux=31.0]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213792, numCheval=9, cote=15.0, enjeux=5.6]
+2021/04/20 11:57:44	Num course : 1213802
+2021/04/20 11:57:44	Adding course : Course [courseID=1213802, date=2021-03-28, hippodrome=  Geraldton [Australie] , reunion=7, course=4, prix=Tc & Ashleigh Tying The Knot April 9 Handicap, type=Plat, prime=12 248, depart=non]
+2021/04/20 11:57:44	Num course : 1213802
+2021/04/20 11:57:44	Adding rapport : Rapport [id=null, courseID=1213802, numCheval=2, arrivee=3, place=4.0, gagnant=null]
+2021/04/20 11:57:44	Num course : 1213802
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@2bd7c8
+2021/04/20 11:57:44	Num course : 1213802
+2021/04/20 11:57:44	Num course : 1213802
+2021/04/20 11:57:44	Num course : 1214241
+2021/04/20 11:57:44	Adding course : Course [courseID=1214241, date=2021-03-28, hippodrome=  Sha Tin (Hong Kong) , reunion=6, course=7, prix=Wong Chuk Wan Handicap Section 2, type=Plat, prime=108 851, depart=non]
+2021/04/20 11:57:44	Num course : 1214241
+2021/04/20 11:57:44	Num course : 1214241
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@1de0371
+2021/04/20 11:57:44	Num course : 1214241
+2021/04/20 11:57:44	Num course : 1214241
+2021/04/20 11:57:44	Num course : 1213806
+2021/04/20 11:57:44	Adding course : Course [courseID=1213806, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=6, prix=Prix le Touquet, type=Steeple-chase, prime=63 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213806
+2021/04/20 11:57:44	Num course : 1213806
+2021/04/20 11:57:44	Num course : 1213806
+2021/04/20 11:57:44	Num course : 1213806
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213806, numCheval=1, cote=5.4, enjeux=15.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213806, numCheval=2, cote=32.0, enjeux=2.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213806, numCheval=3, cote=2.4, enjeux=34.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213806, numCheval=4, cote=46.0, enjeux=1.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213806, numCheval=5, cote=11.0, enjeux=7.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213806, numCheval=6, cote=7.9, enjeux=10.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213806, numCheval=7, cote=3.0, enjeux=27.6]
+2021/04/20 11:57:44	Num course : 1213805
+2021/04/20 11:57:44	Adding course : Course [courseID=1213805, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=8, prix=Prix Mitsouko III, type=Steeple-chase, prime=52 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213805
+2021/04/20 11:57:44	Num course : 1213805
+2021/04/20 11:57:44	Num course : 1213805
+2021/04/20 11:57:44	Num course : 1213805
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213805, numCheval=1, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213805, numCheval=2, cote=8.9, enjeux=9.4]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213805, numCheval=3, cote=54.0, enjeux=1.5]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213805, numCheval=4, cote=4.0, enjeux=20.9]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213805, numCheval=5, cote=11.0, enjeux=7.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213805, numCheval=6, cote=3.7, enjeux=22.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213805, numCheval=7, cote=11.0, enjeux=7.6]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213805, numCheval=8, cote=3.2, enjeux=26.1]
+2021/04/20 11:57:44	Num course : 1213808
+2021/04/20 11:57:44	Adding course : Course [courseID=1213808, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=1, prix=Challenge de l'Obstacle Gras Savoye Hipcover, type=Steeple-chase, prime=52 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213808
+2021/04/20 11:57:44	Num course : 1213808
+2021/04/20 11:57:44	Num course : 1213808
+2021/04/20 11:57:44	Num course : 1213808
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213808, numCheval=1, cote=14.0, enjeux=5.9]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213808, numCheval=2, cote=10.0, enjeux=8.3]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213808, numCheval=3, cote=4.4, enjeux=18.8]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213808, numCheval=4, cote=44.0, enjeux=1.9]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213808, numCheval=5, cote=1.4, enjeux=59.2]
+2021/04/20 11:57:44	Adding cote : Cote [id=null, courseID=1213808, numCheval=6, cote=14.0, enjeux=5.9]
+2021/04/20 11:57:44	Num course : 1213860
+2021/04/20 11:57:44	Adding course : Course [courseID=1213860, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=3, prix=Prix de la Boulangerie Adoue, type=Attelé, prime=20 000, depart=oui]
+2021/04/20 11:57:44	Num course : 1213860
+2021/04/20 11:57:44	Adding rapport : Rapport [id=null, courseID=1213860, numCheval=7, arrivee=3, place=1.5, gagnant=null]
+2021/04/20 11:57:44	Num course : 1213860
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@ea0110
+2021/04/20 11:57:44	Num course : 1213860
+2021/04/20 11:57:44	Num course : 1213860
+2021/04/20 11:57:44	Num course : 1213635
+2021/04/20 11:57:44	Adding course : Course [courseID=1213635, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=4, prix=Prix Handi Cheval Mayenne, type=Attelé, prime=15 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213635
+2021/04/20 11:57:44	Num course : 1213635
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@1efd2c2
+2021/04/20 11:57:44	Num course : 1213635
+2021/04/20 11:57:44	Num course : 1213635
+2021/04/20 11:57:44	Num course : 1213796
+2021/04/20 11:57:44	Adding course : Course [courseID=1213796, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=6, prix=Preis Der Mitglieder Und Fans Von Fortuna Dusseldorf, type=Plat, prime=5 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213796
+2021/04/20 11:57:44	Num course : 1213796
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@1ede9c7
+2021/04/20 11:57:44	Num course : 1213796
+2021/04/20 11:57:44	Num course : 1213796
+2021/04/20 11:57:44	Num course : 1213857
+2021/04/20 11:57:44	Adding course : Course [courseID=1213857, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=8, prix=Grand Prix Dynavena Maisagri, type=Attelé, prime=41 000, depart=non]
+2021/04/20 11:57:44	Num course : 1213857
+2021/04/20 11:57:44	Adding rapport : Rapport [id=null, courseID=1213857, numCheval=7, arrivee=3, place=4.7, gagnant=null]
+2021/04/20 11:57:44	Num course : 1213857
+2021/04/20 11:57:44	Adding arrivees : org.df4ze.courses.models.EntitiesList@115ae33
+2021/04/20 11:57:44	Num course : 1213857
+2021/04/20 11:57:44	Num course : 1213857
+2021/04/20 11:57:45	Num course : 1213795
+2021/04/20 11:57:45	Adding course : Course [courseID=1213795, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=5, prix=Grafenberger Steher Handicap, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:45	Num course : 1213795
+2021/04/20 11:57:45	Num course : 1213795
+2021/04/20 11:57:45	Num course : 1213795
+2021/04/20 11:57:45	Num course : 1213795
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213795, numCheval=1, cote=4.6, enjeux=18.1]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213795, numCheval=2, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213795, numCheval=3, cote=10.0, enjeux=8.3]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213795, numCheval=4, cote=39.0, enjeux=2.1]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213795, numCheval=5, cote=16.0, enjeux=5.2]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213795, numCheval=6, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213795, numCheval=7, cote=2.7, enjeux=30.8]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213795, numCheval=8, cote=6.9, enjeux=12.0]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213795, numCheval=9, cote=11.0, enjeux=7.6]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213795, numCheval=10, cote=16.0, enjeux=5.2]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213795, numCheval=11, cote=43.0, enjeux=1.9]
+2021/04/20 11:57:45	Num course : 1213625
+2021/04/20 11:57:45	Adding course : Course [courseID=1213625, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=5, prix=Prix des Corbières, type=Attelé, prime=14 000, depart=non]
+2021/04/20 11:57:45	Num course : 1213625
+2021/04/20 11:57:45	Num course : 1213625
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@4fea7
+2021/04/20 11:57:45	Num course : 1213625
+2021/04/20 11:57:45	Num course : 1213625
+2021/04/20 11:57:45	Num course : 1213859
+2021/04/20 11:57:45	Adding course : Course [courseID=1213859, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=2, prix=Prix du Smad Aéroport d'Agen, type=Monté, prime=22 000, depart=non]
+2021/04/20 11:57:45	Num course : 1213859
+2021/04/20 11:57:45	Adding rapport : Rapport [id=null, courseID=1213859, numCheval=10, arrivee=3, place=5.4, gagnant=null]
+2021/04/20 11:57:45	Num course : 1213859
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@111f64e
+2021/04/20 11:57:45	Num course : 1213859
+2021/04/20 11:57:45	Num course : 1213859
+2021/04/20 11:57:45	Num course : 1213627
+2021/04/20 11:57:45	Adding course : Course [courseID=1213627, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=2, prix=Prix du Bocage Manceau (gr A), type=Attelé, prime=13 000, depart=non]
+2021/04/20 11:57:45	Num course : 1213627
+2021/04/20 11:57:45	Num course : 1213627
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@1951a7f
+2021/04/20 11:57:45	Num course : 1213627
+2021/04/20 11:57:45	Num course : 1213627
+2021/04/20 11:57:45	Num course : 1213628
+2021/04/20 11:57:45	Adding course : Course [courseID=1213628, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=6, prix=Prix de l'Eure, type=Attelé, prime=15 000, depart=non]
+2021/04/20 11:57:45	Num course : 1213628
+2021/04/20 11:57:45	Num course : 1213628
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@674d90
+2021/04/20 11:57:45	Num course : 1213628
+2021/04/20 11:57:45	Num course : 1213628
+2021/04/20 11:57:45	Num course : 1213795
+2021/04/20 11:57:45	Adding course : Course [courseID=1213795, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=5, prix=Grafenberger Steher Handicap, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:45	Num course : 1213795
+2021/04/20 11:57:45	Adding rapport : Rapport [id=null, courseID=1213795, numCheval=11, arrivee=3, place=9.8, gagnant=null]
+2021/04/20 11:57:45	Num course : 1213795
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@6dcfe6
+2021/04/20 11:57:45	Num course : 1213795
+2021/04/20 11:57:45	Num course : 1213795
+2021/04/20 11:57:45	Num course : 1213829
+2021/04/20 11:57:45	Adding course : Course [courseID=1213829, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=4, prix=Prix d'Abbeville, type=Plat, prime=14 000, depart=non]
+2021/04/20 11:57:45	Num course : 1213829
+2021/04/20 11:57:45	Num course : 1213829
+2021/04/20 11:57:45	Num course : 1213829
+2021/04/20 11:57:45	Num course : 1213829
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213829, numCheval=1, cote=4.5, enjeux=18.6]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213829, numCheval=2, cote=3.8, enjeux=22.0]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213829, numCheval=3, cote=3.5, enjeux=23.9]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213829, numCheval=4, cote=7.4, enjeux=11.3]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213829, numCheval=5, cote=31.0, enjeux=2.7]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213829, numCheval=6, cote=4.2, enjeux=19.9]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213829, numCheval=7, cote=50.0, enjeux=1.7]
+2021/04/20 11:57:45	Num course : 1213962
+2021/04/20 11:57:45	Adding course : Course [courseID=1213962, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=5, prix=Dreierwette Jackpot Rennen, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:45	Num course : 1213962
+2021/04/20 11:57:45	Num course : 1213962
+2021/04/20 11:57:45	Num course : 1213962
+2021/04/20 11:57:45	Num course : 1213962
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213962, numCheval=1, cote=43.0, enjeux=2.0]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213962, numCheval=2, cote=9.6, enjeux=8.7]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213962, numCheval=3, cote=32.0, enjeux=2.6]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213962, numCheval=4, cote=5.3, enjeux=15.8]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213962, numCheval=5, cote=41.0, enjeux=2.0]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213962, numCheval=6, cote=8.4, enjeux=10.0]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213962, numCheval=7, cote=4.1, enjeux=20.5]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213962, numCheval=8, cote=3.4, enjeux=24.7]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213962, numCheval=9, cote=74.0, enjeux=1.1]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213962, numCheval=10, cote=12.0, enjeux=7.0]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213962, numCheval=11, cote=15.0, enjeux=5.6]
+2021/04/20 11:57:45	Num course : 1213961
+2021/04/20 11:57:45	Adding course : Course [courseID=1213961, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=4, prix=livesports.at, type=Attelé, prime=1 500, depart=oui]
+2021/04/20 11:57:45	Num course : 1213961
+2021/04/20 11:57:45	Num course : 1213961
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@c8641
+2021/04/20 11:57:45	Num course : 1213961
+2021/04/20 11:57:45	Num course : 1213961
+2021/04/20 11:57:45	Num course : 1213794
+2021/04/20 11:57:45	Adding course : Course [courseID=1213794, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=4, prix=Breffka & Hehnke-Cup, type=Plat, prime=3 500, depart=non]
+2021/04/20 11:57:45	Num course : 1213794
+2021/04/20 11:57:45	Adding rapport : Rapport [id=null, courseID=1213794, numCheval=6, arrivee=3, place=1.1, gagnant=null]
+2021/04/20 11:57:45	Num course : 1213794
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@1faf066
+2021/04/20 11:57:45	Num course : 1213794
+2021/04/20 11:57:45	Num course : 1213794
+2021/04/20 11:57:45	Num course : 1214239
+2021/04/20 11:57:45	Adding course : Course [courseID=1214239, date=2021-03-28, hippodrome=  Sha Tin (Hong Kong) , reunion=6, course=5, prix=Sham Chung Handicap, type=Plat, prime=163 276, depart=non]
+2021/04/20 11:57:45	Num course : 1214239
+2021/04/20 11:57:45	Num course : 1214239
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@195a72e
+2021/04/20 11:57:45	Num course : 1214239
+2021/04/20 11:57:45	Num course : 1214239
+2021/04/20 11:57:45	Num course : 1213859
+2021/04/20 11:57:45	Adding course : Course [courseID=1213859, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=2, prix=Prix du Smad Aéroport d'Agen, type=Monté, prime=22 000, depart=non]
+2021/04/20 11:57:45	Num course : 1213859
+2021/04/20 11:57:45	Num course : 1213859
+2021/04/20 11:57:45	Num course : 1213859
+2021/04/20 11:57:45	Num course : 1213859
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=1, cote=118.0, enjeux=0.7]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=2, cote=20.0, enjeux=4.2]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=3, cote=35.0, enjeux=2.4]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=4, cote=46.0, enjeux=1.8]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=5, cote=4.0, enjeux=20.8]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=6, cote=5.6, enjeux=14.9]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=7, cote=12.0, enjeux=6.9]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=8, cote=13.0, enjeux=6.4]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=9, cote=17.0, enjeux=4.9]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=10, cote=20.0, enjeux=4.2]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=11, cote=16.0, enjeux=5.2]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=12, cote=27.0, enjeux=3.1]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213859, numCheval=13, cote=3.4, enjeux=24.5]
+2021/04/20 11:57:45	Num course : 1213964
+2021/04/20 11:57:45	Adding course : Course [courseID=1213964, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=7, prix=Preis Von trotto.de, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:45	Num course : 1213964
+2021/04/20 11:57:45	Num course : 1213964
+2021/04/20 11:57:45	Num course : 1213964
+2021/04/20 11:57:45	Num course : 1213964
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213964, numCheval=1, cote=5.9, enjeux=14.2]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213964, numCheval=2, cote=10.0, enjeux=8.3]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213964, numCheval=3, cote=77.0, enjeux=1.1]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213964, numCheval=4, cote=2.6, enjeux=32.1]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213964, numCheval=5, cote=8.5, enjeux=9.8]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213964, numCheval=6, cote=174.0, enjeux=0.5]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213964, numCheval=7, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213964, numCheval=8, cote=47.0, enjeux=1.8]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213964, numCheval=9, cote=3.0, enjeux=27.8]
+2021/04/20 11:57:45	Num course : 1213626
+2021/04/20 11:57:45	Adding course : Course [courseID=1213626, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=1, prix=Prix du Maconnais, type=Monté, prime=14 000, depart=non]
+2021/04/20 11:57:45	Num course : 1213626
+2021/04/20 11:57:45	Num course : 1213626
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@1acdd11
+2021/04/20 11:57:45	Num course : 1213626
+2021/04/20 11:57:45	Num course : 1213626
+2021/04/20 11:57:45	Num course : 1213810
+2021/04/20 11:57:45	Num course : 1213810
+2021/04/20 11:57:45	Num course : 1213810
+2021/04/20 11:57:45	Num course : 1213810
+2021/04/20 11:57:45	Num course : 1213810
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213810, numCheval=1, cote=9.6, enjeux=8.8]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213810, numCheval=2, cote=2.2, enjeux=38.4]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213810, numCheval=3, cote=3.7, enjeux=22.8]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213810, numCheval=4, cote=8.3, enjeux=10.2]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213810, numCheval=5, cote=24.0, enjeux=3.5]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213810, numCheval=6, cote=92.0, enjeux=0.9]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213810, numCheval=7, cote=7.2, enjeux=11.7]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213810, numCheval=8, cote=69.0, enjeux=1.2]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213810, numCheval=9, cote=34.0, enjeux=2.5]
+2021/04/20 11:57:45	Num course : 1213962
+2021/04/20 11:57:45	Adding course : Course [courseID=1213962, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=5, prix=Dreierwette Jackpot Rennen, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:45	Num course : 1213962
+2021/04/20 11:57:45	Adding rapport : Rapport [id=null, courseID=1213962, numCheval=4, arrivee=3, place=2.0, gagnant=null]
+2021/04/20 11:57:45	Num course : 1213962
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@a4300e
+2021/04/20 11:57:45	Num course : 1213962
+2021/04/20 11:57:45	Num course : 1213962
+2021/04/20 11:57:45	Num course : 1213857
+2021/04/20 11:57:45	Adding course : Course [courseID=1213857, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=8, prix=Grand Prix Dynavena Maisagri, type=Attelé, prime=41 000, depart=non]
+2021/04/20 11:57:45	Num course : 1213857
+2021/04/20 11:57:45	Num course : 1213857
+2021/04/20 11:57:45	Num course : 1213857
+2021/04/20 11:57:45	Num course : 1213857
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=1, cote=130.0, enjeux=0.6]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=2, cote=29.0, enjeux=2.9]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=3, cote=188.0, enjeux=0.4]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=4, cote=113.0, enjeux=0.7]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=5, cote=12.0, enjeux=7.0]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=6, cote=191.0, enjeux=0.4]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=7, cote=43.0, enjeux=1.9]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=8, cote=215.0, enjeux=0.4]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=9, cote=8.0, enjeux=10.5]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=10, cote=5.1, enjeux=16.4]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=11, cote=6.3, enjeux=13.3]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=12, cote=4.2, enjeux=19.9]
+2021/04/20 11:57:45	Adding cote : Cote [id=null, courseID=1213857, numCheval=13, cote=3.3, enjeux=25.4]
+2021/04/20 11:57:45	Num course : 1213663
+2021/04/20 11:57:45	Adding course : Course [courseID=1213663, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=1, prix=Prix Paris-Turf, type=Attelé, prime=13 000, depart=non]
+2021/04/20 11:57:45	Num course : 1213663
+2021/04/20 11:57:45	Num course : 1213663
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@fd8a3c
+2021/04/20 11:57:45	Num course : 1213663
+2021/04/20 11:57:45	Num course : 1213663
+2021/04/20 11:57:45	Num course : 1213893
+2021/04/20 11:57:45	Adding course : Course [courseID=1213893, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=4, prix=Prix du Téléthon, type=Plat, prime=11 500, depart=non]
+2021/04/20 11:57:45	Num course : 1213893
+2021/04/20 11:57:45	Num course : 1213893
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@f3157b
+2021/04/20 11:57:45	Num course : 1213893
+2021/04/20 11:57:45	Num course : 1213893
+2021/04/20 11:57:45	Num course : 1213858
+2021/04/20 11:57:45	Adding course : Course [courseID=1213858, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=1, prix=Prix de Sauveterre Saint-Denis, type=Attelé, prime=6 000, depart=oui]
+2021/04/20 11:57:45	Num course : 1213858
+2021/04/20 11:57:45	Adding rapport : Rapport [id=null, courseID=1213858, numCheval=2, arrivee=3, place=2.3, gagnant=null]
+2021/04/20 11:57:45	Num course : 1213858
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@1c4af7a
+2021/04/20 11:57:45	Num course : 1213858
+2021/04/20 11:57:45	Num course : 1213858
+2021/04/20 11:57:45	Num course : 1213959
+2021/04/20 11:57:45	Adding course : Course [courseID=1213959, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=2, prix=Viererwette Jackpot Rennen, type=Attelé, prime=1 500, depart=oui]
+2021/04/20 11:57:45	Num course : 1213959
+2021/04/20 11:57:45	Num course : 1213959
+2021/04/20 11:57:45	Adding arrivees : org.df4ze.courses.models.EntitiesList@1805aa1
+2021/04/20 11:57:45	Num course : 1213959
+2021/04/20 11:57:45	Num course : 1213959
+2021/04/20 11:57:46	Num course : 1213831
+2021/04/20 11:57:46	Adding course : Course [courseID=1213831, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=7, prix=Prix de Longpré, type=Plat, prime=12 000, depart=non]
+2021/04/20 11:57:46	Num course : 1213831
+2021/04/20 11:57:46	Adding rapport : Rapport [id=null, courseID=1213831, numCheval=9, arrivee=3, place=7.0, gagnant=null]
+2021/04/20 11:57:46	Num course : 1213831
+2021/04/20 11:57:46	Adding arrivees : org.df4ze.courses.models.EntitiesList@10f2299
+2021/04/20 11:57:46	Num course : 1213831
+2021/04/20 11:57:46	Num course : 1213831
+2021/04/20 11:57:46	Num course : 1213830
+2021/04/20 11:57:46	Adding course : Course [courseID=1213830, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=6, prix=Prix de la Somme, type=Plat, prime=15 000, depart=non]
+2021/04/20 11:57:46	Num course : 1213830
+2021/04/20 11:57:46	Adding rapport : Rapport [id=null, courseID=1213830, numCheval=7, arrivee=3, place=1.7, gagnant=null]
+2021/04/20 11:57:46	Num course : 1213830
+2021/04/20 11:57:46	Adding arrivees : org.df4ze.courses.models.EntitiesList@11cbd0f
+2021/04/20 11:57:46	Num course : 1213830
+2021/04/20 11:57:46	Num course : 1213830
+2021/04/20 11:57:46	Num course : 1213863
+2021/04/20 11:57:46	Adding course : Course [courseID=1213863, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=7, prix=Prix de Lafox, type=Attelé, prime=26 000, depart=oui]
+2021/04/20 11:57:46	Num course : 1213863
+2021/04/20 11:57:46	Num course : 1213863
+2021/04/20 11:57:46	Num course : 1213863
+2021/04/20 11:57:46	Num course : 1213863
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213863, numCheval=1, cote=3.3, enjeux=25.1]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213863, numCheval=2, cote=47.0, enjeux=1.8]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213863, numCheval=3, cote=1.7, enjeux=48.7]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213863, numCheval=4, cote=20.0, enjeux=4.1]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213863, numCheval=5, cote=100.0, enjeux=0.8]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213863, numCheval=6, cote=107.0, enjeux=0.8]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213863, numCheval=7, cote=21.0, enjeux=3.9]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213863, numCheval=8, cote=8.8, enjeux=9.4]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213863, numCheval=9, cote=174.0, enjeux=0.5]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213863, numCheval=10, cote=53.0, enjeux=1.6]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213863, numCheval=11, cote=25.0, enjeux=3.3]
+2021/04/20 11:57:46	Num course : 1213894
+2021/04/20 11:57:46	Adding course : Course [courseID=1213894, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=5, prix=Prix Porte de la Craffe, type=Steeple-chase, prime=18 000, depart=non]
+2021/04/20 11:57:46	Num course : 1213894
+2021/04/20 11:57:46	Num course : 1213894
+2021/04/20 11:57:46	Adding arrivees : org.df4ze.courses.models.EntitiesList@1679750
+2021/04/20 11:57:46	Num course : 1213894
+2021/04/20 11:57:46	Num course : 1213894
+2021/04/20 11:57:46	Num course : 1213809
+2021/04/20 11:57:46	Num course : 1213809
+2021/04/20 11:57:46	Adding rapport : Rapport [id=null, courseID=1213809, numCheval=6, arrivee=3, place=2.2, gagnant=null]
+2021/04/20 11:57:46	Num course : 1213809
+2021/04/20 11:57:46	Adding arrivees : org.df4ze.courses.models.EntitiesList@f6f88c
+2021/04/20 11:57:46	Num course : 1213809
+2021/04/20 11:57:46	Num course : 1213809
+2021/04/20 11:57:46	Num course : 1213834
+2021/04/20 11:57:46	Adding course : Course [courseID=1213834, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=3, prix=Prix de Peronne, type=Plat, prime=12 000, depart=non]
+2021/04/20 11:57:46	Num course : 1213834
+2021/04/20 11:57:46	Num course : 1213834
+2021/04/20 11:57:46	Num course : 1213834
+2021/04/20 11:57:46	Num course : 1213834
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=1, cote=5.2, enjeux=16.2]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=2, cote=9.6, enjeux=8.8]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=3, cote=12.0, enjeux=7.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=4, cote=10.0, enjeux=8.4]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=5, cote=4.8, enjeux=17.5]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=6, cote=9.3, enjeux=9.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=7, cote=7.2, enjeux=11.7]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=8, cote=36.0, enjeux=2.3]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=9, cote=33.0, enjeux=2.6]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=10, cote=9.6, enjeux=8.8]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=11, cote=25.0, enjeux=3.4]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=12, cote=55.0, enjeux=1.5]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=13, cote=83.0, enjeux=1.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213834, numCheval=14, cote=47.0, enjeux=1.8]
+2021/04/20 11:57:46	Num course : 1213793
+2021/04/20 11:57:46	Adding course : Course [courseID=1213793, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=3, prix=Maiden-Cup Der Stiftung It's For Kids, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:46	Num course : 1213793
+2021/04/20 11:57:46	Adding rapport : Rapport [id=null, courseID=1213793, numCheval=6, arrivee=3, place=2.4, gagnant=null]
+2021/04/20 11:57:46	Num course : 1213793
+2021/04/20 11:57:46	Adding arrivees : org.df4ze.courses.models.EntitiesList@10ae78c
+2021/04/20 11:57:46	Num course : 1213793
+2021/04/20 11:57:46	Num course : 1213793
+2021/04/20 11:57:46	Num course : 1213963
+2021/04/20 11:57:46	Adding course : Course [courseID=1213963, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=6, prix=Start Zur Finishwette Rennen, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:46	Num course : 1213963
+2021/04/20 11:57:46	Num course : 1213963
+2021/04/20 11:57:46	Num course : 1213963
+2021/04/20 11:57:46	Num course : 1213963
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213963, numCheval=1, cote=13.0, enjeux=6.4]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213963, numCheval=2, cote=5.2, enjeux=16.1]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213963, numCheval=3, cote=73.0, enjeux=1.1]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213963, numCheval=4, cote=4.7, enjeux=17.8]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213963, numCheval=5, cote=10.0, enjeux=8.4]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213963, numCheval=6, cote=3.3, enjeux=25.3]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213963, numCheval=7, cote=41.0, enjeux=2.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213963, numCheval=8, cote=3.9, enjeux=21.4]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213963, numCheval=9, cote=57.0, enjeux=1.5]
+2021/04/20 11:57:46	Num course : 1213858
+2021/04/20 11:57:46	Adding course : Course [courseID=1213858, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=1, prix=Prix de Sauveterre Saint-Denis, type=Attelé, prime=6 000, depart=oui]
+2021/04/20 11:57:46	Num course : 1213858
+2021/04/20 11:57:46	Num course : 1213858
+2021/04/20 11:57:46	Num course : 1213858
+2021/04/20 11:57:46	Num course : 1213858
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=1, cote=89.0, enjeux=0.9]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=2, cote=8.2, enjeux=10.2]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=3, cote=29.0, enjeux=2.9]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=4, cote=48.0, enjeux=1.7]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=5, cote=18.0, enjeux=4.7]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=6, cote=2.9, enjeux=28.9]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=7, cote=65.0, enjeux=1.3]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=8, cote=26.0, enjeux=3.2]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=9, cote=112.0, enjeux=0.7]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=10, cote=6.5, enjeux=12.9]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=11, cote=3.1, enjeux=27.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=12, cote=63.0, enjeux=1.3]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=13, cote=160.0, enjeux=0.5]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=14, cote=135.0, enjeux=0.6]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213858, numCheval=15, cote=27.0, enjeux=3.1]
+2021/04/20 11:57:46	Num course : 1213629
+2021/04/20 11:57:46	Adding course : Course [courseID=1213629, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=7, prix=Critérium de Trot de Lyon, type=Attelé, prime=35 000, depart=non]
+2021/04/20 11:57:46	Num course : 1213629
+2021/04/20 11:57:46	Num course : 1213629
+2021/04/20 11:57:46	Num course : 1213629
+2021/04/20 11:57:46	Num course : 1213629
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=1, cote=24.0, enjeux=3.5]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=2, cote=6.5, enjeux=12.9]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=3, cote=80.0, enjeux=1.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=4, cote=23.0, enjeux=3.6]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=5, cote=10.0, enjeux=8.4]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=6, cote=3.6, enjeux=23.2]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=7, cote=11.0, enjeux=7.6]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=8, cote=22.0, enjeux=3.8]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=9, cote=12.0, enjeux=7.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=10, cote=6.5, enjeux=12.9]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=11, cote=28.0, enjeux=3.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=12, cote=9.1, enjeux=9.2]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213629, numCheval=13, cote=21.0, enjeux=4.0]
+2021/04/20 11:57:46	Num course : 1213830
+2021/04/20 11:57:46	Adding course : Course [courseID=1213830, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=6, prix=Prix de la Somme, type=Plat, prime=15 000, depart=non]
+2021/04/20 11:57:46	Num course : 1213830
+2021/04/20 11:57:46	Num course : 1213830
+2021/04/20 11:57:46	Num course : 1213830
+2021/04/20 11:57:46	Num course : 1213830
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213830, numCheval=1, cote=3.8, enjeux=22.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213830, numCheval=2, cote=18.0, enjeux=4.6]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213830, numCheval=3, cote=59.0, enjeux=1.4]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213830, numCheval=4, cote=11.0, enjeux=7.6]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213830, numCheval=5, cote=15.0, enjeux=5.6]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213830, numCheval=6, cote=34.0, enjeux=2.5]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213830, numCheval=7, cote=9.2, enjeux=9.1]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213830, numCheval=8, cote=3.5, enjeux=23.9]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213830, numCheval=9, cote=3.6, enjeux=23.2]
+2021/04/20 11:57:46	Num course : 1213808
+2021/04/20 11:57:46	Adding course : Course [courseID=1213808, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=1, prix=Challenge de l'Obstacle Gras Savoye Hipcover, type=Steeple-chase, prime=52 000, depart=non]
+2021/04/20 11:57:46	Num course : 1213808
+2021/04/20 11:57:46	Adding rapport : Rapport [id=null, courseID=1213808, numCheval=3, arrivee=2, place=1.1, gagnant=null]
+2021/04/20 11:57:46	Num course : 1213808
+2021/04/20 11:57:46	Adding arrivees : org.df4ze.courses.models.EntitiesList@1406941
+2021/04/20 11:57:46	Num course : 1213808
+2021/04/20 11:57:46	Num course : 1213808
+2021/04/20 11:57:46	Num course : 1213806
+2021/04/20 11:57:46	Adding course : Course [courseID=1213806, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=6, prix=Prix le Touquet, type=Steeple-chase, prime=63 000, depart=non]
+2021/04/20 11:57:46	Num course : 1213806
+2021/04/20 11:57:46	Adding rapport : Rapport [id=null, courseID=1213806, numCheval=7, arrivee=2, place=2.7, gagnant=null]
+2021/04/20 11:57:46	Num course : 1213806
+2021/04/20 11:57:46	Adding arrivees : org.df4ze.courses.models.EntitiesList@d64b3f
+2021/04/20 11:57:46	Num course : 1213806
+2021/04/20 11:57:46	Num course : 1213806
+2021/04/20 11:57:46	Num course : 1213696
+2021/04/20 11:57:46	Adding course : Course [courseID=1213696, date=2021-03-28, hippodrome=  Nîmes , reunion=8, course=8, prix=Prix Vans Barbot, type=Attelé, prime=16 000, depart=non]
+2021/04/20 11:57:46	Num course : 1213696
+2021/04/20 11:57:46	Num course : 1213696
+2021/04/20 11:57:46	Adding arrivees : org.df4ze.courses.models.EntitiesList@14d329e
+2021/04/20 11:57:46	Num course : 1213696
+2021/04/20 11:57:46	Num course : 1213696
+2021/04/20 11:57:46	Num course : 1213833
+2021/04/20 11:57:46	Adding course : Course [courseID=1213833, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=5, prix=Prix des Hortillonnages, type=Plat, prime=19 000, depart=non]
+2021/04/20 11:57:46	Num course : 1213833
+2021/04/20 11:57:46	Num course : 1213833
+2021/04/20 11:57:46	Num course : 1213833
+2021/04/20 11:57:46	Num course : 1213833
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=1, cote=8.7, enjeux=9.7]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=2, cote=6.1, enjeux=13.8]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=4, cote=7.8, enjeux=10.8]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=5, cote=23.0, enjeux=3.7]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=6, cote=17.0, enjeux=4.9]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=7, cote=4.2, enjeux=20.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=8, cote=40.0, enjeux=2.1]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=9, cote=88.0, enjeux=1.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=10, cote=9.1, enjeux=9.2]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=11, cote=28.0, enjeux=3.0]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=12, cote=34.0, enjeux=2.5]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=13, cote=5.9, enjeux=14.2]
+2021/04/20 11:57:46	Adding cote : Cote [id=null, courseID=1213833, numCheval=14, cote=16.0, enjeux=5.2]
+2021/04/20 11:57:46	Num course : 1213960
+2021/04/20 11:57:46	Adding course : Course [courseID=1213960, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=3, prix=Sedus Says Goodbye, type=Attelé, prime=1 200, depart=oui]
+2021/04/20 11:57:46	Num course : 1213960
+2021/04/20 11:57:46	Num course : 1213960
+2021/04/20 11:57:46	Adding arrivees : org.df4ze.courses.models.EntitiesList@7bfcb2
+2021/04/20 11:57:46	Num course : 1213960
+2021/04/20 11:57:46	Num course : 1213960
+2021/04/20 11:57:46	Num course : 1213863
+2021/04/20 11:57:46	Adding course : Course [courseID=1213863, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=7, prix=Prix de Lafox, type=Attelé, prime=26 000, depart=oui]
+2021/04/20 11:57:46	Num course : 1213863
+2021/04/20 11:57:46	Adding rapport : Rapport [id=null, courseID=1213863, numCheval=4, arrivee=3, place=3.2, gagnant=null]
+2021/04/20 11:57:46	Num course : 1213863
+2021/04/20 11:57:46	Adding arrivees : org.df4ze.courses.models.EntitiesList@11ecfa
+2021/04/20 11:57:46	Num course : 1213863
+2021/04/20 11:57:46	Num course : 1213863
+2021/04/20 11:57:46	Num course : 1213965
+2021/04/20 11:57:46	Adding course : Course [courseID=1213965, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=8, prix=Grosser Preis Der Österreichischen Lotterien, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:46	Num course : 1213965
+2021/04/20 11:57:46	Adding rapport : Rapport [id=null, courseID=1213965, numCheval=9, arrivee=3, place=2.0, gagnant=null]
+2021/04/20 11:57:46	Num course : 1213965
+2021/04/20 11:57:46	Adding arrivees : org.df4ze.courses.models.EntitiesList@26a448
+2021/04/20 11:57:46	Num course : 1213965
+2021/04/20 11:57:46	Num course : 1213965
+2021/04/20 11:57:47	Num course : 1213807
+2021/04/20 11:57:47	Num course : 1213807
+2021/04/20 11:57:47	Adding rapport : Rapport [id=null, courseID=1213807, numCheval=1, arrivee=3, place=1.9, gagnant=null]
+2021/04/20 11:57:47	Num course : 1213807
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@15c4f17
+2021/04/20 11:57:47	Num course : 1213807
+2021/04/20 11:57:47	Num course : 1213807
+2021/04/20 11:57:47	Num course : 1213800
+2021/04/20 11:57:47	Adding course : Course [courseID=1213800, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=10, prix=Preis Der Action Medeor, type=Plat, prime=5 000, depart=non]
+2021/04/20 11:57:47	Num course : 1213800
+2021/04/20 11:57:47	Num course : 1213800
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@1ba57f0
+2021/04/20 11:57:47	Num course : 1213800
+2021/04/20 11:57:47	Num course : 1213800
+2021/04/20 11:57:47	Num course : 1213791
+2021/04/20 11:57:47	Adding course : Course [courseID=1213791, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=1, prix=Sport-Welt Auftaktrennen, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:47	Num course : 1213791
+2021/04/20 11:57:47	Adding rapport : Rapport [id=null, courseID=1213791, numCheval=2, arrivee=2, place=1.3, gagnant=null]
+2021/04/20 11:57:47	Num course : 1213791
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@b3bf03
+2021/04/20 11:57:47	Num course : 1213791
+2021/04/20 11:57:47	Num course : 1213791
+2021/04/20 11:57:47	Num course : 1213798
+2021/04/20 11:57:47	Adding course : Course [courseID=1213798, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=8, prix=Preis Der Fortuna, type=Plat, prime=9 000, depart=non]
+2021/04/20 11:57:47	Num course : 1213798
+2021/04/20 11:57:47	Num course : 1213798
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@10dc227
+2021/04/20 11:57:47	Num course : 1213798
+2021/04/20 11:57:47	Num course : 1213798
+2021/04/20 11:57:47	Num course : 1213867
+2021/04/20 11:57:47	Adding course : Course [courseID=1213867, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=5, prix=Prix André Pelourdeau, type=Steeple-chase, prime=16 000, depart=non]
+2021/04/20 11:57:47	Num course : 1213867
+2021/04/20 11:57:47	Num course : 1213867
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@1d74143
+2021/04/20 11:57:47	Num course : 1213867
+2021/04/20 11:57:47	Num course : 1213867
+2021/04/20 11:57:47	Num course : 1213835
+2021/04/20 11:57:47	Adding course : Course [courseID=1213835, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=2, prix=Prix d'Albert, type=Plat, prime=15 000, depart=non]
+2021/04/20 11:57:47	Num course : 1213835
+2021/04/20 11:57:47	Adding rapport : Rapport [id=null, courseID=1213835, numCheval=13, arrivee=3, place=3.0, gagnant=null]
+2021/04/20 11:57:47	Num course : 1213835
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@1e27856
+2021/04/20 11:57:47	Num course : 1213835
+2021/04/20 11:57:47	Num course : 1213835
+2021/04/20 11:57:47	Num course : 1213834
+2021/04/20 11:57:47	Adding course : Course [courseID=1213834, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=3, prix=Prix de Peronne, type=Plat, prime=12 000, depart=non]
+2021/04/20 11:57:47	Num course : 1213834
+2021/04/20 11:57:47	Adding rapport : Rapport [id=null, courseID=1213834, numCheval=6, arrivee=3, place=3.0, gagnant=null]
+2021/04/20 11:57:47	Num course : 1213834
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@13ac8d3
+2021/04/20 11:57:47	Num course : 1213834
+2021/04/20 11:57:47	Num course : 1213834
+2021/04/20 11:57:47	Num course : 1213794
+2021/04/20 11:57:47	Adding course : Course [courseID=1213794, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=4, prix=Breffka & Hehnke-Cup, type=Plat, prime=3 500, depart=non]
+2021/04/20 11:57:47	Num course : 1213794
+2021/04/20 11:57:47	Num course : 1213794
+2021/04/20 11:57:47	Num course : 1213794
+2021/04/20 11:57:47	Num course : 1213794
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213794, numCheval=1, cote=30.0, enjeux=2.8]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213794, numCheval=2, cote=16.0, enjeux=5.3]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213794, numCheval=3, cote=8.5, enjeux=9.9]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213794, numCheval=5, cote=35.0, enjeux=2.4]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213794, numCheval=6, cote=1.7, enjeux=49.4]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213794, numCheval=7, cote=20.0, enjeux=4.2]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213794, numCheval=8, cote=5.8, enjeux=14.5]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213794, numCheval=9, cote=7.3, enjeux=11.5]
+2021/04/20 11:57:47	Num course : 1213829
+2021/04/20 11:57:47	Adding course : Course [courseID=1213829, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=4, prix=Prix d'Abbeville, type=Plat, prime=14 000, depart=non]
+2021/04/20 11:57:47	Num course : 1213829
+2021/04/20 11:57:47	Adding rapport : Rapport [id=null, courseID=1213829, numCheval=3, arrivee=2, place=1.7, gagnant=null]
+2021/04/20 11:57:47	Num course : 1213829
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@33eff3
+2021/04/20 11:57:47	Num course : 1213829
+2021/04/20 11:57:47	Num course : 1213829
+2021/04/20 11:57:47	Num course : 1213896
+2021/04/20 11:57:47	Num course : 1213896
+2021/04/20 11:57:47	Num course : 1213896
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@11ae8a4
+2021/04/20 11:57:47	Num course : 1213896
+2021/04/20 11:57:47	Num course : 1213896
+2021/04/20 11:57:47	Num course : 1213865
+2021/04/20 11:57:47	Adding course : Course [courseID=1213865, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=1, prix=Prix du Vasse, type=Steeple-chase, prime=18 000, depart=non]
+2021/04/20 11:57:47	Num course : 1213865
+2021/04/20 11:57:47	Num course : 1213865
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@1362135
+2021/04/20 11:57:47	Num course : 1213865
+2021/04/20 11:57:47	Num course : 1213865
+2021/04/20 11:57:47	Num course : 1213864
+2021/04/20 11:57:47	Adding course : Course [courseID=1213864, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=4, prix=Prix du Festival des Bandas de Condom, type=Attelé, prime=16 000, depart=oui]
+2021/04/20 11:57:47	Num course : 1213864
+2021/04/20 11:57:47	Num course : 1213864
+2021/04/20 11:57:47	Num course : 1213864
+2021/04/20 11:57:47	Num course : 1213864
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=1, cote=25.0, enjeux=3.4]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=2, cote=2.8, enjeux=29.9]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=3, cote=6.1, enjeux=13.7]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=4, cote=12.0, enjeux=7.0]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=5, cote=26.0, enjeux=3.2]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=6, cote=15.0, enjeux=5.6]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=7, cote=3.5, enjeux=23.9]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=8, cote=37.0, enjeux=2.3]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=9, cote=29.0, enjeux=2.9]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=10, cote=16.0, enjeux=5.2]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=11, cote=87.0, enjeux=1.0]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=12, cote=95.0, enjeux=0.9]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213864, numCheval=13, cote=80.0, enjeux=1.0]
+2021/04/20 11:57:47	Num course : 1213809
+2021/04/20 11:57:47	Num course : 1213809
+2021/04/20 11:57:47	Num course : 1213809
+2021/04/20 11:57:47	Num course : 1213809
+2021/04/20 11:57:47	Num course : 1213809
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213809, numCheval=1, cote=10.0, enjeux=8.4]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213809, numCheval=2, cote=8.9, enjeux=9.4]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213809, numCheval=3, cote=18.0, enjeux=4.7]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213809, numCheval=4, cote=2.2, enjeux=38.1]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213809, numCheval=5, cote=9.8, enjeux=8.6]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213809, numCheval=6, cote=7.5, enjeux=11.2]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213809, numCheval=7, cote=6.2, enjeux=13.5]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213809, numCheval=8, cote=101.0, enjeux=0.8]
+2021/04/20 11:57:47	Adding cote : Cote [id=null, courseID=1213809, numCheval=9, cote=16.0, enjeux=5.2]
+2021/04/20 11:57:47	Num course : 1213799
+2021/04/20 11:57:47	Adding course : Course [courseID=1213799, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=9, prix=Wettchance des Tages, type=Plat, prime=4 800, depart=non]
+2021/04/20 11:57:47	Num course : 1213799
+2021/04/20 11:57:47	Num course : 1213799
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@17e8044
+2021/04/20 11:57:47	Num course : 1213799
+2021/04/20 11:57:47	Num course : 1213799
+2021/04/20 11:57:47	Num course : 1213630
+2021/04/20 11:57:47	Adding course : Course [courseID=1213630, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=3, prix=Prix du Bocage Manceau (gr B), type=Attelé, prime=13 000, depart=non]
+2021/04/20 11:57:47	Num course : 1213630
+2021/04/20 11:57:47	Num course : 1213630
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@3bd45b
+2021/04/20 11:57:47	Num course : 1213630
+2021/04/20 11:57:47	Num course : 1213630
+2021/04/20 11:57:47	Num course : 1213810
+2021/04/20 11:57:47	Num course : 1213810
+2021/04/20 11:57:47	Adding rapport : Rapport [id=null, courseID=1213810, numCheval=5, arrivee=3, place=5.5, gagnant=null]
+2021/04/20 11:57:47	Num course : 1213810
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@1e4c2d5
+2021/04/20 11:57:47	Num course : 1213810
+2021/04/20 11:57:47	Num course : 1213810
+2021/04/20 11:57:47	Num course : 1213958
+2021/04/20 11:57:47	Adding course : Course [courseID=1213958, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=1, prix=Start Zur S76 Wette, type=Attelé, prime=1 200, depart=oui]
+2021/04/20 11:57:47	Num course : 1213958
+2021/04/20 11:57:47	Num course : 1213958
+2021/04/20 11:57:47	Adding arrivees : org.df4ze.courses.models.EntitiesList@1d96822
+2021/04/20 11:57:47	Num course : 1213958
+2021/04/20 11:57:47	Num course : 1213958
+2021/04/20 11:57:48	Num course : 1213862
+2021/04/20 11:57:48	Adding course : Course [courseID=1213862, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=6, prix=Prix Doria Desbois, type=Attelé, prime=18 000, depart=non]
+2021/04/20 11:57:48	Num course : 1213862
+2021/04/20 11:57:48	Adding rapport : Rapport [id=null, courseID=1213862, numCheval=10, arrivee=3, place=1.7, gagnant=null]
+2021/04/20 11:57:48	Num course : 1213862
+2021/04/20 11:57:48	Adding arrivees : org.df4ze.courses.models.EntitiesList@11cddf3
+2021/04/20 11:57:48	Num course : 1213862
+2021/04/20 11:57:48	Num course : 1213862
+2021/04/20 11:57:48	Num course : 1214240
+2021/04/20 11:57:48	Adding course : Course [courseID=1214240, date=2021-03-28, hippodrome=  Sha Tin (Hong Kong) , reunion=6, course=6, prix=Tai Mong Tsai Handicap, type=Plat, prime=108 851, depart=non]
+2021/04/20 11:57:48	Num course : 1214240
+2021/04/20 11:57:48	Num course : 1214240
+2021/04/20 11:57:48	Adding arrivees : org.df4ze.courses.models.EntitiesList@37f145
+2021/04/20 11:57:48	Num course : 1214240
+2021/04/20 11:57:48	Num course : 1214240
+2021/04/20 11:57:48	Num course : null
+2021/04/20 11:57:48	Num course : null
+2021/04/20 11:57:48	Num course : null
+2021/04/20 11:57:48	Num course : null
+2021/04/20 11:57:48	Num course : null
+2021/04/20 11:57:48	Num course : 1213801
+2021/04/20 11:57:48	Adding course : Course [courseID=1213801, date=2021-03-28, hippodrome=  Geraldton [Australie] , reunion=7, course=6, prix=Owners Only Handicap, type=Plat, prime=12 248, depart=non]
+2021/04/20 11:57:48	Num course : 1213801
+2021/04/20 11:57:48	Adding rapport : Rapport [id=null, courseID=1213801, numCheval=2, arrivee=3, place=2.3, gagnant=null]
+2021/04/20 11:57:48	Num course : 1213801
+2021/04/20 11:57:48	Adding arrivees : org.df4ze.courses.models.EntitiesList@1faba70
+2021/04/20 11:57:48	Num course : 1213801
+2021/04/20 11:57:48	Num course : 1213801
+2021/04/20 11:57:48	Num course : 1213832
+2021/04/20 11:57:48	Adding course : Course [courseID=1213832, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=1, prix=Prix de Roye, type=Plat, prime=19 000, depart=non]
+2021/04/20 11:57:48	Num course : 1213832
+2021/04/20 11:57:48	Num course : 1213832
+2021/04/20 11:57:48	Num course : 1213832
+2021/04/20 11:57:48	Num course : 1213832
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=1, cote=96.0, enjeux=0.9]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=2, cote=148.0, enjeux=0.6]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=3, cote=2.5, enjeux=33.4]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=5, cote=3.7, enjeux=22.6]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=6, cote=16.0, enjeux=5.2]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=7, cote=70.0, enjeux=1.2]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=8, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=9, cote=30.0, enjeux=2.8]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=10, cote=42.0, enjeux=2.0]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=11, cote=49.0, enjeux=1.7]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=12, cote=14.0, enjeux=6.0]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=13, cote=5.3, enjeux=15.7]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213832, numCheval=14, cote=23.0, enjeux=3.6]
+2021/04/20 11:57:48	Num course : 1213895
+2021/04/20 11:57:48	Adding course : Course [courseID=1213895, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=6, prix=Prix du Restaurant l'Hippodrome, type=Plat, prime=15 000, depart=non]
+2021/04/20 11:57:48	Num course : 1213895
+2021/04/20 11:57:48	Num course : 1213895
+2021/04/20 11:57:48	Adding arrivees : org.df4ze.courses.models.EntitiesList@a68bcb
+2021/04/20 11:57:48	Num course : 1213895
+2021/04/20 11:57:48	Num course : 1213895
+2021/04/20 11:57:48	Num course : 1213634
+2021/04/20 11:57:48	Adding course : Course [courseID=1213634, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=2, prix=Prix www.hippodrome-meslaydumaine.rfr, type=Attelé, prime=13 000, depart=non]
+2021/04/20 11:57:48	Num course : 1213634
+2021/04/20 11:57:48	Num course : 1213634
+2021/04/20 11:57:48	Adding arrivees : org.df4ze.courses.models.EntitiesList@a09303
+2021/04/20 11:57:48	Num course : 1213634
+2021/04/20 11:57:48	Num course : 1213634
+2021/04/20 11:57:48	Num course : 1213864
+2021/04/20 11:57:48	Adding course : Course [courseID=1213864, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=4, prix=Prix du Festival des Bandas de Condom, type=Attelé, prime=16 000, depart=oui]
+2021/04/20 11:57:48	Num course : 1213864
+2021/04/20 11:57:48	Adding rapport : Rapport [id=null, courseID=1213864, numCheval=5, arrivee=3, place=5.9, gagnant=null]
+2021/04/20 11:57:48	Num course : 1213864
+2021/04/20 11:57:48	Adding arrivees : org.df4ze.courses.models.EntitiesList@72947a
+2021/04/20 11:57:48	Num course : 1213864
+2021/04/20 11:57:48	Num course : 1213864
+2021/04/20 11:57:48	Num course : 1213797
+2021/04/20 11:57:48	Adding course : Course [courseID=1213797, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=7, prix=Preis Der Barmenia Versicherung, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:48	Num course : 1213797
+2021/04/20 11:57:48	Num course : 1213797
+2021/04/20 11:57:48	Adding arrivees : org.df4ze.courses.models.EntitiesList@11a7d53
+2021/04/20 11:57:48	Num course : 1213797
+2021/04/20 11:57:48	Num course : 1213797
+2021/04/20 11:57:48	Num course : 1213963
+2021/04/20 11:57:48	Adding course : Course [courseID=1213963, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=6, prix=Start Zur Finishwette Rennen, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:48	Num course : 1213963
+2021/04/20 11:57:48	Adding rapport : Rapport [id=null, courseID=1213963, numCheval=1, arrivee=3, place=3.3, gagnant=null]
+2021/04/20 11:57:48	Num course : 1213963
+2021/04/20 11:57:48	Adding arrivees : org.df4ze.courses.models.EntitiesList@165bdf9
+2021/04/20 11:57:48	Num course : 1213963
+2021/04/20 11:57:48	Num course : 1213963
+2021/04/20 11:57:48	Num course : 1213804
+2021/04/20 11:57:48	Adding course : Course [courseID=1213804, date=2021-03-28, hippodrome=  Geraldton [Australie] , reunion=7, course=5, prix=Westspeed Platinum Handicap, type=Plat, prime=12 248, depart=non]
+2021/04/20 11:57:48	Num course : 1213804
+2021/04/20 11:57:48	Adding rapport : Rapport [id=null, courseID=1213804, numCheval=4, arrivee=3, place=2.8, gagnant=null]
+2021/04/20 11:57:48	Num course : 1213804
+2021/04/20 11:57:48	Adding arrivees : org.df4ze.courses.models.EntitiesList@46c06
+2021/04/20 11:57:48	Num course : 1213804
+2021/04/20 11:57:48	Num course : 1213804
+2021/04/20 11:57:48	Num course : 1213812
+2021/04/20 11:57:48	Adding course : Course [courseID=1213812, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=3, prix=Prix Lutteur III, type=Steeple-chase, prime=120 000, depart=non]
+2021/04/20 11:57:48	Num course : 1213812
+2021/04/20 11:57:48	Num course : 1213812
+2021/04/20 11:57:48	Num course : 1213812
+2021/04/20 11:57:48	Num course : 1213812
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=1, cote=21.0, enjeux=4.0]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=2, cote=10.0, enjeux=8.3]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=3, cote=21.0, enjeux=4.0]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=4, cote=4.2, enjeux=19.8]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=5, cote=34.0, enjeux=2.4]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=6, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=7, cote=7.4, enjeux=11.2]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=8, cote=8.6, enjeux=9.6]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=9, cote=35.0, enjeux=2.4]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=10, cote=10.0, enjeux=8.3]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=11, cote=32.0, enjeux=2.6]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=12, cote=8.9, enjeux=9.3]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=13, cote=27.0, enjeux=3.1]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=14, cote=37.0, enjeux=2.2]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=15, cote=12.0, enjeux=6.9]
+2021/04/20 11:57:48	Adding cote : Cote [id=null, courseID=1213812, numCheval=16, cote=53.0, enjeux=1.6]
+2021/04/20 11:57:48	Num course : 1213809
+2021/04/20 11:57:48	Num course : 1213809
+2021/04/20 11:57:48	Adding rapport : Rapport [id=null, courseID=1213809, numCheval=6, arrivee=3, place=2.2, gagnant=null]
+2021/04/20 11:57:48	Num course : 1213809
+2021/04/20 11:57:48	Adding arrivees : org.df4ze.courses.models.EntitiesList@a2ed51
+2021/04/20 11:57:48	Num course : 1213809
+2021/04/20 11:57:48	Num course : 1213809
+2021/04/20 11:57:48	Num course : null
+2021/04/20 11:57:48	Num course : null
+2021/04/20 11:57:48	Num course : null
+2021/04/20 11:57:48	Num course : null
+2021/04/20 11:57:48	Num course : null
+2021/04/20 11:57:49	Num course : 1213805
+2021/04/20 11:57:49	Adding course : Course [courseID=1213805, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=8, prix=Prix Mitsouko III, type=Steeple-chase, prime=52 000, depart=non]
+2021/04/20 11:57:49	Num course : 1213805
+2021/04/20 11:57:49	Adding rapport : Rapport [id=null, courseID=1213805, numCheval=4, arrivee=3, place=1.6, gagnant=null]
+2021/04/20 11:57:49	Num course : 1213805
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@a2d9f9
+2021/04/20 11:57:49	Num course : 1213805
+2021/04/20 11:57:49	Num course : 1213805
+2021/04/20 11:57:49	Num course : 1213806
+2021/04/20 11:57:49	Adding course : Course [courseID=1213806, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=6, prix=Prix le Touquet, type=Steeple-chase, prime=63 000, depart=non]
+2021/04/20 11:57:49	Num course : 1213806
+2021/04/20 11:57:49	Adding rapport : Rapport [id=null, courseID=1213806, numCheval=7, arrivee=2, place=2.7, gagnant=null]
+2021/04/20 11:57:49	Num course : 1213806
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@116f66a
+2021/04/20 11:57:49	Num course : 1213806
+2021/04/20 11:57:49	Num course : 1213806
+2021/04/20 11:57:49	Num course : 1213808
+2021/04/20 11:57:49	Adding course : Course [courseID=1213808, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=1, prix=Challenge de l'Obstacle Gras Savoye Hipcover, type=Steeple-chase, prime=52 000, depart=non]
+2021/04/20 11:57:49	Num course : 1213808
+2021/04/20 11:57:49	Adding rapport : Rapport [id=null, courseID=1213808, numCheval=3, arrivee=2, place=1.1, gagnant=null]
+2021/04/20 11:57:49	Num course : 1213808
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@1dc6db2
+2021/04/20 11:57:49	Num course : 1213808
+2021/04/20 11:57:49	Num course : 1213808
+2021/04/20 11:57:49	Num course : 1213807
+2021/04/20 11:57:49	Num course : 1213807
+2021/04/20 11:57:49	Adding rapport : Rapport [id=null, courseID=1213807, numCheval=1, arrivee=3, place=1.9, gagnant=null]
+2021/04/20 11:57:49	Num course : 1213807
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@151c3a2
+2021/04/20 11:57:49	Num course : 1213807
+2021/04/20 11:57:49	Num course : 1213807
+2021/04/20 11:57:49	Num course : 1213810
+2021/04/20 11:57:49	Num course : 1213810
+2021/04/20 11:57:49	Adding rapport : Rapport [id=null, courseID=1213810, numCheval=5, arrivee=3, place=5.5, gagnant=null]
+2021/04/20 11:57:49	Num course : 1213810
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@1432e53
+2021/04/20 11:57:49	Num course : 1213810
+2021/04/20 11:57:49	Num course : 1213810
+2021/04/20 11:57:49	Num course : 1213812
+2021/04/20 11:57:49	Adding course : Course [courseID=1213812, date=2021-03-28, hippodrome=  Auteuil , reunion=1, course=3, prix=Prix Lutteur III, type=Steeple-chase, prime=120 000, depart=non]
+2021/04/20 11:57:49	Num course : 1213812
+2021/04/20 11:57:49	Adding rapport : Rapport [id=null, courseID=1213812, numCheval=4, arrivee=3, place=1.7, gagnant=null]
+2021/04/20 11:57:49	Num course : 1213812
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@3269f5
+2021/04/20 11:57:49	Num course : 1213812
+2021/04/20 11:57:49	Num course : 1213812
+2021/04/20 11:57:49	Num course : 1213811
+2021/04/20 11:57:49	Num course : 1213811
+2021/04/20 11:57:49	Adding rapport : Rapport [id=null, courseID=1213811, numCheval=2, arrivee=3, place=3.2, gagnant=null]
+2021/04/20 11:57:49	Num course : 1213811
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@889805
+2021/04/20 11:57:49	Num course : 1213811
+2021/04/20 11:57:49	Num course : 1213811
+2021/04/20 11:57:49	Num course : 1213630
+2021/04/20 11:57:49	Adding course : Course [courseID=1213630, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=3, prix=Prix du Bocage Manceau (gr B), type=Attelé, prime=13 000, depart=non]
+2021/04/20 11:57:49	Num course : 1213630
+2021/04/20 11:57:49	Num course : 1213630
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@50e90c
+2021/04/20 11:57:49	Num course : 1213630
+2021/04/20 11:57:49	Num course : 1213630
+2021/04/20 11:57:49	Num course : 1213625
+2021/04/20 11:57:49	Adding course : Course [courseID=1213625, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=5, prix=Prix des Corbières, type=Attelé, prime=14 000, depart=non]
+2021/04/20 11:57:49	Num course : 1213625
+2021/04/20 11:57:49	Num course : 1213625
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@c22831
+2021/04/20 11:57:49	Num course : 1213625
+2021/04/20 11:57:49	Num course : 1213625
+2021/04/20 11:57:49	Num course : 1213629
+2021/04/20 11:57:49	Adding course : Course [courseID=1213629, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=7, prix=Critérium de Trot de Lyon, type=Attelé, prime=35 000, depart=non]
+2021/04/20 11:57:49	Num course : 1213629
+2021/04/20 11:57:49	Adding rapport : Rapport [id=null, courseID=1213629, numCheval=13, arrivee=3, place=4.0, gagnant=null]
+2021/04/20 11:57:49	Num course : 1213629
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@d08cb5
+2021/04/20 11:57:49	Num course : 1213629
+2021/04/20 11:57:49	Num course : 1213629
+2021/04/20 11:57:49	Num course : 1213627
+2021/04/20 11:57:49	Adding course : Course [courseID=1213627, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=2, prix=Prix du Bocage Manceau (gr A), type=Attelé, prime=13 000, depart=non]
+2021/04/20 11:57:49	Num course : 1213627
+2021/04/20 11:57:49	Num course : 1213627
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@1353651
+2021/04/20 11:57:49	Num course : 1213627
+2021/04/20 11:57:49	Num course : 1213627
+2021/04/20 11:57:49	Num course : 1213632
+2021/04/20 11:57:49	Adding course : Course [courseID=1213632, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=4, prix=Prix du Cantal, type=Attelé, prime=14 000, depart=non]
+2021/04/20 11:57:49	Num course : 1213632
+2021/04/20 11:57:49	Num course : 1213632
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@1c7cd1c
+2021/04/20 11:57:49	Num course : 1213632
+2021/04/20 11:57:49	Num course : 1213632
+2021/04/20 11:57:49	Num course : 1213628
+2021/04/20 11:57:49	Adding course : Course [courseID=1213628, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=6, prix=Prix de l'Eure, type=Attelé, prime=15 000, depart=non]
+2021/04/20 11:57:49	Num course : 1213628
+2021/04/20 11:57:49	Num course : 1213628
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@1188612
+2021/04/20 11:57:49	Num course : 1213628
+2021/04/20 11:57:49	Num course : 1213628
+2021/04/20 11:57:49	Num course : 1213626
+2021/04/20 11:57:49	Adding course : Course [courseID=1213626, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=1, prix=Prix du Maconnais, type=Monté, prime=14 000, depart=non]
+2021/04/20 11:57:49	Num course : 1213626
+2021/04/20 11:57:49	Num course : 1213626
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@5beb8a
+2021/04/20 11:57:49	Num course : 1213626
+2021/04/20 11:57:49	Num course : 1213626
+2021/04/20 11:57:49	Num course : 1213958
+2021/04/20 11:57:49	Adding course : Course [courseID=1213958, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=1, prix=Start Zur S76 Wette, type=Attelé, prime=1 200, depart=oui]
+2021/04/20 11:57:49	Num course : 1213958
+2021/04/20 11:57:49	Num course : 1213958
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@a53104
+2021/04/20 11:57:49	Num course : 1213958
+2021/04/20 11:57:49	Num course : 1213958
+2021/04/20 11:57:49	Num course : 1213959
+2021/04/20 11:57:49	Adding course : Course [courseID=1213959, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=2, prix=Viererwette Jackpot Rennen, type=Attelé, prime=1 500, depart=oui]
+2021/04/20 11:57:49	Num course : 1213959
+2021/04/20 11:57:49	Num course : 1213959
+2021/04/20 11:57:49	Adding arrivees : org.df4ze.courses.models.EntitiesList@11e5e55
+2021/04/20 11:57:49	Num course : 1213959
+2021/04/20 11:57:49	Num course : 1213959
+2021/04/20 11:57:50	Num course : 1213961
+2021/04/20 11:57:50	Adding course : Course [courseID=1213961, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=4, prix=livesports.at, type=Attelé, prime=1 500, depart=oui]
+2021/04/20 11:57:50	Num course : 1213961
+2021/04/20 11:57:50	Num course : 1213961
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@1b5cd2b
+2021/04/20 11:57:50	Num course : 1213961
+2021/04/20 11:57:50	Num course : 1213961
+2021/04/20 11:57:50	Num course : 1213960
+2021/04/20 11:57:50	Adding course : Course [courseID=1213960, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=3, prix=Sedus Says Goodbye, type=Attelé, prime=1 200, depart=oui]
+2021/04/20 11:57:50	Num course : 1213960
+2021/04/20 11:57:50	Num course : 1213960
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@bbb9c4
+2021/04/20 11:57:50	Num course : 1213960
+2021/04/20 11:57:50	Num course : 1213960
+2021/04/20 11:57:50	Num course : 1213965
+2021/04/20 11:57:50	Adding course : Course [courseID=1213965, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=8, prix=Grosser Preis Der Österreichischen Lotterien, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:50	Num course : 1213965
+2021/04/20 11:57:50	Adding rapport : Rapport [id=null, courseID=1213965, numCheval=9, arrivee=3, place=2.0, gagnant=null]
+2021/04/20 11:57:50	Num course : 1213965
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@11ea6ff
+2021/04/20 11:57:50	Num course : 1213965
+2021/04/20 11:57:50	Num course : 1213965
+2021/04/20 11:57:50	Num course : 1213963
+2021/04/20 11:57:50	Adding course : Course [courseID=1213963, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=6, prix=Start Zur Finishwette Rennen, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:50	Num course : 1213963
+2021/04/20 11:57:50	Adding rapport : Rapport [id=null, courseID=1213963, numCheval=1, arrivee=3, place=3.3, gagnant=null]
+2021/04/20 11:57:50	Num course : 1213963
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@1526f71
+2021/04/20 11:57:50	Num course : 1213963
+2021/04/20 11:57:50	Num course : 1213963
+2021/04/20 11:57:50	Num course : 1213962
+2021/04/20 11:57:50	Adding course : Course [courseID=1213962, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=5, prix=Dreierwette Jackpot Rennen, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:50	Num course : 1213962
+2021/04/20 11:57:50	Adding rapport : Rapport [id=null, courseID=1213962, numCheval=4, arrivee=3, place=2.0, gagnant=null]
+2021/04/20 11:57:50	Num course : 1213962
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@1dd92a
+2021/04/20 11:57:50	Num course : 1213962
+2021/04/20 11:57:50	Num course : 1213962
+2021/04/20 11:57:50	Num course : null
+2021/04/20 11:57:50	Num course : null
+2021/04/20 11:57:50	Num course : null
+2021/04/20 11:57:50	Num course : null
+2021/04/20 11:57:50	Num course : null
+2021/04/20 11:57:50	Num course : 1213795
+2021/04/20 11:57:50	Adding course : Course [courseID=1213795, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=5, prix=Grafenberger Steher Handicap, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:50	Num course : 1213795
+2021/04/20 11:57:50	Adding rapport : Rapport [id=null, courseID=1213795, numCheval=11, arrivee=3, place=9.8, gagnant=null]
+2021/04/20 11:57:50	Num course : 1213795
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@d15347
+2021/04/20 11:57:50	Num course : 1213795
+2021/04/20 11:57:50	Num course : 1213795
+2021/04/20 11:57:50	Num course : 1213791
+2021/04/20 11:57:50	Adding course : Course [courseID=1213791, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=1, prix=Sport-Welt Auftaktrennen, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:50	Num course : 1213791
+2021/04/20 11:57:50	Adding rapport : Rapport [id=null, courseID=1213791, numCheval=2, arrivee=2, place=1.3, gagnant=null]
+2021/04/20 11:57:50	Num course : 1213791
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@198b809
+2021/04/20 11:57:50	Num course : 1213791
+2021/04/20 11:57:50	Num course : 1213791
+2021/04/20 11:57:50	Num course : 1213799
+2021/04/20 11:57:50	Adding course : Course [courseID=1213799, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=9, prix=Wettchance des Tages, type=Plat, prime=4 800, depart=non]
+2021/04/20 11:57:50	Num course : 1213799
+2021/04/20 11:57:50	Num course : 1213799
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@1bb44da
+2021/04/20 11:57:50	Num course : 1213799
+2021/04/20 11:57:50	Num course : 1213799
+2021/04/20 11:57:50	Num course : 1213794
+2021/04/20 11:57:50	Adding course : Course [courseID=1213794, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=4, prix=Breffka & Hehnke-Cup, type=Plat, prime=3 500, depart=non]
+2021/04/20 11:57:50	Num course : 1213794
+2021/04/20 11:57:50	Adding rapport : Rapport [id=null, courseID=1213794, numCheval=6, arrivee=3, place=1.1, gagnant=null]
+2021/04/20 11:57:50	Num course : 1213794
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@9f1b6
+2021/04/20 11:57:50	Num course : 1213794
+2021/04/20 11:57:50	Num course : 1213794
+2021/04/20 11:57:50	Num course : 1213793
+2021/04/20 11:57:50	Adding course : Course [courseID=1213793, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=3, prix=Maiden-Cup Der Stiftung It's For Kids, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:50	Num course : 1213793
+2021/04/20 11:57:50	Adding rapport : Rapport [id=null, courseID=1213793, numCheval=6, arrivee=3, place=2.4, gagnant=null]
+2021/04/20 11:57:50	Num course : 1213793
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@b50df
+2021/04/20 11:57:50	Num course : 1213793
+2021/04/20 11:57:50	Num course : 1213793
+2021/04/20 11:57:50	Num course : 1213796
+2021/04/20 11:57:50	Adding course : Course [courseID=1213796, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=6, prix=Preis Der Mitglieder Und Fans Von Fortuna Dusseldorf, type=Plat, prime=5 000, depart=non]
+2021/04/20 11:57:50	Num course : 1213796
+2021/04/20 11:57:50	Num course : 1213796
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@1edb4f5
+2021/04/20 11:57:50	Num course : 1213796
+2021/04/20 11:57:50	Num course : 1213796
+2021/04/20 11:57:50	Num course : 1213800
+2021/04/20 11:57:50	Adding course : Course [courseID=1213800, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=10, prix=Preis Der Action Medeor, type=Plat, prime=5 000, depart=non]
+2021/04/20 11:57:50	Num course : 1213800
+2021/04/20 11:57:50	Num course : 1213800
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@765aec
+2021/04/20 11:57:50	Num course : 1213800
+2021/04/20 11:57:50	Num course : 1213800
+2021/04/20 11:57:50	Num course : 1213798
+2021/04/20 11:57:50	Adding course : Course [courseID=1213798, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=8, prix=Preis Der Fortuna, type=Plat, prime=9 000, depart=non]
+2021/04/20 11:57:50	Num course : 1213798
+2021/04/20 11:57:50	Num course : 1213798
+2021/04/20 11:57:50	Adding arrivees : org.df4ze.courses.models.EntitiesList@1169009
+2021/04/20 11:57:50	Num course : 1213798
+2021/04/20 11:57:50	Num course : 1213798
+2021/04/20 11:57:50	Num course : 1213797
+2021/04/20 11:57:50	Adding course : Course [courseID=1213797, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=7, prix=Preis Der Barmenia Versicherung, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:50	Num course : 1213797
+2021/04/20 11:57:50	Num course : 1213797
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@1f15a50
+2021/04/20 11:57:51	Num course : 1213797
+2021/04/20 11:57:51	Num course : 1213797
+2021/04/20 11:57:51	Num course : 1213635
+2021/04/20 11:57:51	Adding course : Course [courseID=1213635, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=4, prix=Prix Handi Cheval Mayenne, type=Attelé, prime=15 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213635
+2021/04/20 11:57:51	Num course : 1213635
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@f64ce0
+2021/04/20 11:57:51	Num course : 1213635
+2021/04/20 11:57:51	Num course : 1213635
+2021/04/20 11:57:51	Num course : 1213865
+2021/04/20 11:57:51	Adding course : Course [courseID=1213865, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=1, prix=Prix du Vasse, type=Steeple-chase, prime=18 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213865
+2021/04/20 11:57:51	Num course : 1213865
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@1f3ff41
+2021/04/20 11:57:51	Num course : 1213865
+2021/04/20 11:57:51	Num course : 1213865
+2021/04/20 11:57:51	Num course : 1213867
+2021/04/20 11:57:51	Adding course : Course [courseID=1213867, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=5, prix=Prix André Pelourdeau, type=Steeple-chase, prime=16 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213867
+2021/04/20 11:57:51	Num course : 1213867
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@12d014a
+2021/04/20 11:57:51	Num course : 1213867
+2021/04/20 11:57:51	Num course : 1213867
+2021/04/20 11:57:51	Num course : 1213633
+2021/04/20 11:57:51	Adding course : Course [courseID=1213633, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=6, prix=Prix Loc@t'me, type=Attelé, prime=15 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213633
+2021/04/20 11:57:51	Num course : 1213633
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@17c80c6
+2021/04/20 11:57:51	Num course : 1213633
+2021/04/20 11:57:51	Num course : 1213633
+2021/04/20 11:57:51	Num course : 1213634
+2021/04/20 11:57:51	Adding course : Course [courseID=1213634, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=2, prix=Prix www.hippodrome-meslaydumaine.rfr, type=Attelé, prime=13 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213634
+2021/04/20 11:57:51	Num course : 1213634
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@178eea2
+2021/04/20 11:57:51	Num course : 1213634
+2021/04/20 11:57:51	Num course : 1213634
+2021/04/20 11:57:51	Num course : 1213663
+2021/04/20 11:57:51	Adding course : Course [courseID=1213663, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=1, prix=Prix Paris-Turf, type=Attelé, prime=13 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213663
+2021/04/20 11:57:51	Num course : 1213663
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@128a578
+2021/04/20 11:57:51	Num course : 1213663
+2021/04/20 11:57:51	Num course : 1213663
+2021/04/20 11:57:51	Num course : 1213894
+2021/04/20 11:57:51	Adding course : Course [courseID=1213894, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=5, prix=Prix Porte de la Craffe, type=Steeple-chase, prime=18 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213894
+2021/04/20 11:57:51	Num course : 1213894
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@8f3dd1
+2021/04/20 11:57:51	Num course : 1213894
+2021/04/20 11:57:51	Num course : 1213894
+2021/04/20 11:57:51	Num course : 1213896
+2021/04/20 11:57:51	Num course : 1213896
+2021/04/20 11:57:51	Num course : 1213896
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@93b51e
+2021/04/20 11:57:51	Num course : 1213896
+2021/04/20 11:57:51	Num course : 1213896
+2021/04/20 11:57:51	Num course : 1213893
+2021/04/20 11:57:51	Adding course : Course [courseID=1213893, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=4, prix=Prix du Téléthon, type=Plat, prime=11 500, depart=non]
+2021/04/20 11:57:51	Num course : 1213893
+2021/04/20 11:57:51	Num course : 1213893
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@14179fa
+2021/04/20 11:57:51	Num course : 1213893
+2021/04/20 11:57:51	Num course : 1213893
+2021/04/20 11:57:51	Num course : 1213662
+2021/04/20 11:57:51	Adding course : Course [courseID=1213662, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=3, prix=Prix des Macarons, type=Attelé, prime=16 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213662
+2021/04/20 11:57:51	Num course : 1213662
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@687d8d
+2021/04/20 11:57:51	Num course : 1213662
+2021/04/20 11:57:51	Num course : 1213662
+2021/04/20 11:57:51	Num course : 1213661
+2021/04/20 11:57:51	Adding course : Course [courseID=1213661, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=2, prix=Prix Tony M, type=Attelé, prime=12 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213661
+2021/04/20 11:57:51	Num course : 1213661
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@43e476
+2021/04/20 11:57:51	Num course : 1213661
+2021/04/20 11:57:51	Num course : 1213661
+2021/04/20 11:57:51	Num course : 1213895
+2021/04/20 11:57:51	Adding course : Course [courseID=1213895, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=6, prix=Prix du Restaurant l'Hippodrome, type=Plat, prime=15 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213895
+2021/04/20 11:57:51	Num course : 1213895
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@1287b98
+2021/04/20 11:57:51	Num course : 1213895
+2021/04/20 11:57:51	Num course : 1213895
+2021/04/20 11:57:51	Num course : 1213835
+2021/04/20 11:57:51	Adding course : Course [courseID=1213835, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=2, prix=Prix d'Albert, type=Plat, prime=15 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213835
+2021/04/20 11:57:51	Adding rapport : Rapport [id=null, courseID=1213835, numCheval=13, arrivee=3, place=3.0, gagnant=null]
+2021/04/20 11:57:51	Num course : 1213835
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@190fee4
+2021/04/20 11:57:51	Num course : 1213835
+2021/04/20 11:57:51	Num course : 1213835
+2021/04/20 11:57:51	Num course : 1213830
+2021/04/20 11:57:51	Adding course : Course [courseID=1213830, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=6, prix=Prix de la Somme, type=Plat, prime=15 000, depart=non]
+2021/04/20 11:57:51	Num course : 1213830
+2021/04/20 11:57:51	Adding rapport : Rapport [id=null, courseID=1213830, numCheval=7, arrivee=3, place=1.7, gagnant=null]
+2021/04/20 11:57:51	Num course : 1213830
+2021/04/20 11:57:51	Adding arrivees : org.df4ze.courses.models.EntitiesList@db6fca
+2021/04/20 11:57:51	Num course : 1213830
+2021/04/20 11:57:51	Num course : 1213830
+2021/04/20 11:57:52	Num course : 1213831
+2021/04/20 11:57:52	Adding course : Course [courseID=1213831, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=7, prix=Prix de Longpré, type=Plat, prime=12 000, depart=non]
+2021/04/20 11:57:52	Num course : 1213831
+2021/04/20 11:57:52	Adding rapport : Rapport [id=null, courseID=1213831, numCheval=9, arrivee=3, place=7.0, gagnant=null]
+2021/04/20 11:57:52	Num course : 1213831
+2021/04/20 11:57:52	Adding arrivees : org.df4ze.courses.models.EntitiesList@1bab114
+2021/04/20 11:57:52	Num course : 1213831
+2021/04/20 11:57:52	Num course : 1213831
+2021/04/20 11:57:52	Num course : 1213829
+2021/04/20 11:57:52	Adding course : Course [courseID=1213829, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=4, prix=Prix d'Abbeville, type=Plat, prime=14 000, depart=non]
+2021/04/20 11:57:52	Num course : 1213829
+2021/04/20 11:57:52	Adding rapport : Rapport [id=null, courseID=1213829, numCheval=3, arrivee=2, place=1.7, gagnant=null]
+2021/04/20 11:57:52	Num course : 1213829
+2021/04/20 11:57:52	Adding arrivees : org.df4ze.courses.models.EntitiesList@1c3709
+2021/04/20 11:57:52	Num course : 1213829
+2021/04/20 11:57:52	Num course : 1213829
+2021/04/20 11:57:52	Num course : 1213832
+2021/04/20 11:57:52	Adding course : Course [courseID=1213832, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=1, prix=Prix de Roye, type=Plat, prime=19 000, depart=non]
+2021/04/20 11:57:52	Num course : 1213832
+2021/04/20 11:57:52	Adding rapport : Rapport [id=null, courseID=1213832, numCheval=5, arrivee=3, place=1.5, gagnant=null]
+2021/04/20 11:57:52	Num course : 1213832
+2021/04/20 11:57:52	Adding arrivees : org.df4ze.courses.models.EntitiesList@1a36cd5
+2021/04/20 11:57:52	Num course : 1213832
+2021/04/20 11:57:52	Num course : 1213832
+2021/04/20 11:57:52	Num course : 1213834
+2021/04/20 11:57:52	Adding course : Course [courseID=1213834, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=3, prix=Prix de Peronne, type=Plat, prime=12 000, depart=non]
+2021/04/20 11:57:52	Num course : 1213834
+2021/04/20 11:57:52	Adding rapport : Rapport [id=null, courseID=1213834, numCheval=6, arrivee=3, place=3.0, gagnant=null]
+2021/04/20 11:57:52	Num course : 1213834
+2021/04/20 11:57:52	Adding arrivees : org.df4ze.courses.models.EntitiesList@1512ddb
+2021/04/20 11:57:52	Num course : 1213834
+2021/04/20 11:57:52	Num course : 1213834
+2021/04/20 11:57:52	Num course : 1213897
+2021/04/20 11:57:52	Adding course : Course [courseID=1213897, date=2021-03-28, hippodrome=  Nancy (Genybet) , reunion=10, course=8, prix=Prix des Myrtilles, type=Plat, prime=19 000, depart=non]
+2021/04/20 11:57:52	Num course : 1213897
+2021/04/20 11:57:52	Num course : 1213897
+2021/04/20 11:57:52	Adding arrivees : org.df4ze.courses.models.EntitiesList@f21960
+2021/04/20 11:57:52	Num course : 1213897
+2021/04/20 11:57:52	Num course : 1213897
+2021/04/20 11:57:52	Num course : 1213866
+2021/04/20 11:57:52	Adding course : Course [courseID=1213866, date=2021-03-28, hippodrome=  Meslay-du-Maine (Genybet) , reunion=11, course=3, prix=Prix Bernard de Montigny, type=Steeple-chase, prime=18 000, depart=non]
+2021/04/20 11:57:52	Num course : 1213866
+2021/04/20 11:57:52	Num course : 1213866
+2021/04/20 11:57:52	Adding arrivees : org.df4ze.courses.models.EntitiesList@1d7f0
+2021/04/20 11:57:52	Num course : 1213866
+2021/04/20 11:57:52	Num course : 1213866
+2021/04/20 11:57:52	Num course : 1213631
+2021/04/20 11:57:52	Adding course : Course [courseID=1213631, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=8, prix=Prix du Ternois, type=Attelé, prime=5 000, depart=non]
+2021/04/20 11:57:52	Num course : 1213631
+2021/04/20 11:57:52	Num course : 1213631
+2021/04/20 11:57:52	Adding arrivees : org.df4ze.courses.models.EntitiesList@6c411c
+2021/04/20 11:57:52	Num course : 1213631
+2021/04/20 11:57:52	Num course : 1213631
+2021/04/20 11:57:52	Num course : 1213963
+2021/04/20 11:57:52	Adding course : Course [courseID=1213963, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=6, prix=Start Zur Finishwette Rennen, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:52	Num course : 1213963
+2021/04/20 11:57:52	Num course : 1213963
+2021/04/20 11:57:52	Num course : 1213963
+2021/04/20 11:57:52	Num course : 1213963
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213963, numCheval=1, cote=13.0, enjeux=6.4]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213963, numCheval=2, cote=5.2, enjeux=16.1]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213963, numCheval=3, cote=73.0, enjeux=1.1]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213963, numCheval=4, cote=4.7, enjeux=17.8]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213963, numCheval=5, cote=10.0, enjeux=8.4]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213963, numCheval=6, cote=3.3, enjeux=25.3]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213963, numCheval=7, cote=41.0, enjeux=2.0]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213963, numCheval=8, cote=3.9, enjeux=21.4]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213963, numCheval=9, cote=57.0, enjeux=1.5]
+2021/04/20 11:57:52	Num course : 1213960
+2021/04/20 11:57:52	Adding course : Course [courseID=1213960, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=3, prix=Sedus Says Goodbye, type=Attelé, prime=1 200, depart=oui]
+2021/04/20 11:57:52	Num course : 1213960
+2021/04/20 11:57:52	Num course : 1213960
+2021/04/20 11:57:52	Num course : 1213960
+2021/04/20 11:57:52	Num course : 1213960
+2021/04/20 11:57:52	Num course : 1213959
+2021/04/20 11:57:52	Adding course : Course [courseID=1213959, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=2, prix=Viererwette Jackpot Rennen, type=Attelé, prime=1 500, depart=oui]
+2021/04/20 11:57:52	Num course : 1213959
+2021/04/20 11:57:52	Num course : 1213959
+2021/04/20 11:57:52	Num course : 1213959
+2021/04/20 11:57:52	Num course : 1213959
+2021/04/20 11:57:52	Num course : 1213958
+2021/04/20 11:57:52	Adding course : Course [courseID=1213958, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=1, prix=Start Zur S76 Wette, type=Attelé, prime=1 200, depart=oui]
+2021/04/20 11:57:52	Num course : 1213958
+2021/04/20 11:57:52	Num course : 1213958
+2021/04/20 11:57:52	Num course : 1213958
+2021/04/20 11:57:52	Num course : 1213958
+2021/04/20 11:57:52	Num course : 1213961
+2021/04/20 11:57:52	Adding course : Course [courseID=1213961, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=4, prix=livesports.at, type=Attelé, prime=1 500, depart=oui]
+2021/04/20 11:57:52	Num course : 1213961
+2021/04/20 11:57:52	Num course : 1213961
+2021/04/20 11:57:52	Num course : 1213961
+2021/04/20 11:57:52	Num course : 1213961
+2021/04/20 11:57:52	Num course : 1213962
+2021/04/20 11:57:52	Adding course : Course [courseID=1213962, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=5, prix=Dreierwette Jackpot Rennen, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:52	Num course : 1213962
+2021/04/20 11:57:52	Num course : 1213962
+2021/04/20 11:57:52	Num course : 1213962
+2021/04/20 11:57:52	Num course : 1213962
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213962, numCheval=1, cote=43.0, enjeux=2.0]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213962, numCheval=2, cote=9.6, enjeux=8.7]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213962, numCheval=3, cote=32.0, enjeux=2.6]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213962, numCheval=4, cote=5.3, enjeux=15.8]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213962, numCheval=5, cote=41.0, enjeux=2.0]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213962, numCheval=6, cote=8.4, enjeux=10.0]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213962, numCheval=7, cote=4.1, enjeux=20.5]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213962, numCheval=8, cote=3.4, enjeux=24.7]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213962, numCheval=9, cote=74.0, enjeux=1.1]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213962, numCheval=10, cote=12.0, enjeux=7.0]
+2021/04/20 11:57:52	Adding cote : Cote [id=null, courseID=1213962, numCheval=11, cote=15.0, enjeux=5.6]
+2021/04/20 11:57:53	Num course : 1213964
+2021/04/20 11:57:53	Adding course : Course [courseID=1213964, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=7, prix=Preis Von trotto.de, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:53	Num course : 1213964
+2021/04/20 11:57:53	Num course : 1213964
+2021/04/20 11:57:53	Num course : 1213964
+2021/04/20 11:57:53	Num course : 1213964
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213964, numCheval=1, cote=5.9, enjeux=14.2]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213964, numCheval=2, cote=10.0, enjeux=8.3]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213964, numCheval=3, cote=77.0, enjeux=1.1]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213964, numCheval=4, cote=2.6, enjeux=32.1]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213964, numCheval=5, cote=8.5, enjeux=9.8]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213964, numCheval=6, cote=174.0, enjeux=0.5]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213964, numCheval=7, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213964, numCheval=8, cote=47.0, enjeux=1.8]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213964, numCheval=9, cote=3.0, enjeux=27.8]
+2021/04/20 11:57:53	Num course : 1213833
+2021/04/20 11:57:53	Adding course : Course [courseID=1213833, date=2021-03-28, hippodrome=  Amiens , reunion=4, course=5, prix=Prix des Hortillonnages, type=Plat, prime=19 000, depart=non]
+2021/04/20 11:57:53	Num course : 1213833
+2021/04/20 11:57:53	Adding rapport : Rapport [id=null, courseID=1213833, numCheval=12, arrivee=3, place=8.2, gagnant=null]
+2021/04/20 11:57:53	Num course : 1213833
+2021/04/20 11:57:53	Adding arrivees : org.df4ze.courses.models.EntitiesList@132c7a5
+2021/04/20 11:57:53	Num course : 1213833
+2021/04/20 11:57:53	Num course : 1213833
+2021/04/20 11:57:53	Num course : 1213792
+2021/04/20 11:57:53	Adding course : Course [courseID=1213792, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=2, prix=Und Rennverein Von 1844 e.v., type=Plat, prime=3 500, depart=non]
+2021/04/20 11:57:53	Num course : 1213792
+2021/04/20 11:57:53	Num course : 1213792
+2021/04/20 11:57:53	Num course : 1213792
+2021/04/20 11:57:53	Num course : 1213792
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213792, numCheval=1, cote=6.6, enjeux=12.7]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213792, numCheval=2, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213792, numCheval=3, cote=4.4, enjeux=19.0]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213792, numCheval=4, cote=11.0, enjeux=7.6]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213792, numCheval=5, cote=6.4, enjeux=13.1]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213792, numCheval=6, cote=20.0, enjeux=4.2]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213792, numCheval=7, cote=33.0, enjeux=2.5]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213792, numCheval=8, cote=2.7, enjeux=31.0]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213792, numCheval=9, cote=15.0, enjeux=5.6]
+2021/04/20 11:57:53	Num course : 1213798
+2021/04/20 11:57:53	Adding course : Course [courseID=1213798, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=8, prix=Preis Der Fortuna, type=Plat, prime=9 000, depart=non]
+2021/04/20 11:57:53	Num course : 1213798
+2021/04/20 11:57:53	Num course : 1213798
+2021/04/20 11:57:53	Num course : 1213798
+2021/04/20 11:57:53	Num course : 1213798
+2021/04/20 11:57:53	Num course : 1213800
+2021/04/20 11:57:53	Adding course : Course [courseID=1213800, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=10, prix=Preis Der Action Medeor, type=Plat, prime=5 000, depart=non]
+2021/04/20 11:57:53	Num course : 1213800
+2021/04/20 11:57:53	Num course : 1213800
+2021/04/20 11:57:53	Num course : 1213800
+2021/04/20 11:57:53	Num course : 1213800
+2021/04/20 11:57:53	Num course : 1213799
+2021/04/20 11:57:53	Adding course : Course [courseID=1213799, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=9, prix=Wettchance des Tages, type=Plat, prime=4 800, depart=non]
+2021/04/20 11:57:53	Num course : 1213799
+2021/04/20 11:57:53	Num course : 1213799
+2021/04/20 11:57:53	Num course : 1213799
+2021/04/20 11:57:53	Num course : 1213799
+2021/04/20 11:57:53	Num course : 1213795
+2021/04/20 11:57:53	Adding course : Course [courseID=1213795, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=5, prix=Grafenberger Steher Handicap, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:53	Num course : 1213795
+2021/04/20 11:57:53	Num course : 1213795
+2021/04/20 11:57:53	Num course : 1213795
+2021/04/20 11:57:53	Num course : 1213795
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213795, numCheval=1, cote=4.6, enjeux=18.1]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213795, numCheval=2, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213795, numCheval=3, cote=10.0, enjeux=8.3]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213795, numCheval=4, cote=39.0, enjeux=2.1]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213795, numCheval=5, cote=16.0, enjeux=5.2]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213795, numCheval=6, cote=19.0, enjeux=4.4]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213795, numCheval=7, cote=2.7, enjeux=30.8]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213795, numCheval=8, cote=6.9, enjeux=12.0]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213795, numCheval=9, cote=11.0, enjeux=7.6]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213795, numCheval=10, cote=16.0, enjeux=5.2]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213795, numCheval=11, cote=43.0, enjeux=1.9]
+2021/04/20 11:57:53	Num course : 1213794
+2021/04/20 11:57:53	Adding course : Course [courseID=1213794, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=4, prix=Breffka & Hehnke-Cup, type=Plat, prime=3 500, depart=non]
+2021/04/20 11:57:53	Num course : 1213794
+2021/04/20 11:57:53	Num course : 1213794
+2021/04/20 11:57:53	Num course : 1213794
+2021/04/20 11:57:53	Num course : 1213794
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213794, numCheval=1, cote=30.0, enjeux=2.8]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213794, numCheval=2, cote=16.0, enjeux=5.3]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213794, numCheval=3, cote=8.5, enjeux=9.9]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213794, numCheval=5, cote=35.0, enjeux=2.4]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213794, numCheval=6, cote=1.7, enjeux=49.4]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213794, numCheval=7, cote=20.0, enjeux=4.2]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213794, numCheval=8, cote=5.8, enjeux=14.5]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213794, numCheval=9, cote=7.3, enjeux=11.5]
+2021/04/20 11:57:53	Num course : 1213797
+2021/04/20 11:57:53	Adding course : Course [courseID=1213797, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=7, prix=Preis Der Barmenia Versicherung, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:53	Num course : 1213797
+2021/04/20 11:57:53	Num course : 1213797
+2021/04/20 11:57:53	Num course : 1213797
+2021/04/20 11:57:53	Num course : 1213797
+2021/04/20 11:57:53	Num course : 1213793
+2021/04/20 11:57:53	Adding course : Course [courseID=1213793, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=3, prix=Maiden-Cup Der Stiftung It's For Kids, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:53	Num course : 1213793
+2021/04/20 11:57:53	Num course : 1213793
+2021/04/20 11:57:53	Num course : 1213793
+2021/04/20 11:57:53	Num course : 1213793
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213793, numCheval=1, cote=6.8, enjeux=12.4]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213793, numCheval=2, cote=5.6, enjeux=15.0]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213793, numCheval=4, cote=4.2, enjeux=20.0]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213793, numCheval=5, cote=4.8, enjeux=17.5]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213793, numCheval=6, cote=5.8, enjeux=14.5]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213793, numCheval=7, cote=5.3, enjeux=15.9]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213793, numCheval=8, cote=18.0, enjeux=4.7]
+2021/04/20 11:57:53	Num course : 1213796
+2021/04/20 11:57:53	Adding course : Course [courseID=1213796, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=6, prix=Preis Der Mitglieder Und Fans Von Fortuna Dusseldorf, type=Plat, prime=5 000, depart=non]
+2021/04/20 11:57:53	Num course : 1213796
+2021/04/20 11:57:53	Num course : 1213796
+2021/04/20 11:57:53	Num course : 1213796
+2021/04/20 11:57:53	Num course : 1213796
+2021/04/20 11:57:53	Num course : 1213791
+2021/04/20 11:57:53	Adding course : Course [courseID=1213791, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=1, prix=Sport-Welt Auftaktrennen, type=Plat, prime=4 500, depart=non]
+2021/04/20 11:57:53	Num course : 1213791
+2021/04/20 11:57:53	Num course : 1213791
+2021/04/20 11:57:53	Num course : 1213791
+2021/04/20 11:57:53	Num course : 1213791
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213791, numCheval=1, cote=5.1, enjeux=16.4]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213791, numCheval=2, cote=2.3, enjeux=36.3]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213791, numCheval=4, cote=2.4, enjeux=34.8]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213791, numCheval=5, cote=20.0, enjeux=4.2]
+2021/04/20 11:57:53	Adding cote : Cote [id=null, courseID=1213791, numCheval=6, cote=10.0, enjeux=8.4]
+2021/04/20 11:57:54	Num course : 1213864
+2021/04/20 11:57:54	Adding course : Course [courseID=1213864, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=4, prix=Prix du Festival des Bandas de Condom, type=Attelé, prime=16 000, depart=oui]
+2021/04/20 11:57:54	Num course : 1213864
+2021/04/20 11:57:54	Adding rapport : Rapport [id=null, courseID=1213864, numCheval=5, arrivee=3, place=5.9, gagnant=null]
+2021/04/20 11:57:54	Num course : 1213864
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@186b202
+2021/04/20 11:57:54	Num course : 1213864
+2021/04/20 11:57:54	Num course : 1213864
+2021/04/20 11:57:54	Num course : 1213857
+2021/04/20 11:57:54	Adding course : Course [courseID=1213857, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=8, prix=Grand Prix Dynavena Maisagri, type=Attelé, prime=41 000, depart=non]
+2021/04/20 11:57:54	Num course : 1213857
+2021/04/20 11:57:54	Adding rapport : Rapport [id=null, courseID=1213857, numCheval=7, arrivee=3, place=4.7, gagnant=null]
+2021/04/20 11:57:54	Num course : 1213857
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@173a742
+2021/04/20 11:57:54	Num course : 1213857
+2021/04/20 11:57:54	Num course : 1213857
+2021/04/20 11:57:54	Num course : 1213859
+2021/04/20 11:57:54	Adding course : Course [courseID=1213859, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=2, prix=Prix du Smad Aéroport d'Agen, type=Monté, prime=22 000, depart=non]
+2021/04/20 11:57:54	Num course : 1213859
+2021/04/20 11:57:54	Adding rapport : Rapport [id=null, courseID=1213859, numCheval=10, arrivee=3, place=5.4, gagnant=null]
+2021/04/20 11:57:54	Num course : 1213859
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@538ed8
+2021/04/20 11:57:54	Num course : 1213859
+2021/04/20 11:57:54	Num course : 1213859
+2021/04/20 11:57:54	Num course : 1213858
+2021/04/20 11:57:54	Adding course : Course [courseID=1213858, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=1, prix=Prix de Sauveterre Saint-Denis, type=Attelé, prime=6 000, depart=oui]
+2021/04/20 11:57:54	Num course : 1213858
+2021/04/20 11:57:54	Adding rapport : Rapport [id=null, courseID=1213858, numCheval=2, arrivee=3, place=2.3, gagnant=null]
+2021/04/20 11:57:54	Num course : 1213858
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@1edb795
+2021/04/20 11:57:54	Num course : 1213858
+2021/04/20 11:57:54	Num course : 1213858
+2021/04/20 11:57:54	Num course : 1213860
+2021/04/20 11:57:54	Adding course : Course [courseID=1213860, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=3, prix=Prix de la Boulangerie Adoue, type=Attelé, prime=20 000, depart=oui]
+2021/04/20 11:57:54	Num course : 1213860
+2021/04/20 11:57:54	Adding rapport : Rapport [id=null, courseID=1213860, numCheval=7, arrivee=3, place=1.5, gagnant=null]
+2021/04/20 11:57:54	Num course : 1213860
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@70a620
+2021/04/20 11:57:54	Num course : 1213860
+2021/04/20 11:57:54	Num course : 1213860
+2021/04/20 11:57:54	Num course : 1213863
+2021/04/20 11:57:54	Adding course : Course [courseID=1213863, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=7, prix=Prix de Lafox, type=Attelé, prime=26 000, depart=oui]
+2021/04/20 11:57:54	Num course : 1213863
+2021/04/20 11:57:54	Adding rapport : Rapport [id=null, courseID=1213863, numCheval=4, arrivee=3, place=3.2, gagnant=null]
+2021/04/20 11:57:54	Num course : 1213863
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@7df831
+2021/04/20 11:57:54	Num course : 1213863
+2021/04/20 11:57:54	Num course : 1213863
+2021/04/20 11:57:54	Num course : 1213862
+2021/04/20 11:57:54	Adding course : Course [courseID=1213862, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=6, prix=Prix Doria Desbois, type=Attelé, prime=18 000, depart=non]
+2021/04/20 11:57:54	Num course : 1213862
+2021/04/20 11:57:54	Adding rapport : Rapport [id=null, courseID=1213862, numCheval=10, arrivee=3, place=1.7, gagnant=null]
+2021/04/20 11:57:54	Num course : 1213862
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@11ff3ac
+2021/04/20 11:57:54	Num course : 1213862
+2021/04/20 11:57:54	Num course : 1213862
+2021/04/20 11:57:54	Num course : 1214239
+2021/04/20 11:57:54	Adding course : Course [courseID=1214239, date=2021-03-28, hippodrome=  Sha Tin (Hong Kong) , reunion=6, course=5, prix=Sham Chung Handicap, type=Plat, prime=163 276, depart=non]
+2021/04/20 11:57:54	Num course : 1214239
+2021/04/20 11:57:54	Num course : 1214239
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@2f8f94
+2021/04/20 11:57:54	Num course : 1214239
+2021/04/20 11:57:54	Num course : 1214239
+2021/04/20 11:57:54	Num course : 1214241
+2021/04/20 11:57:54	Adding course : Course [courseID=1214241, date=2021-03-28, hippodrome=  Sha Tin (Hong Kong) , reunion=6, course=7, prix=Wong Chuk Wan Handicap Section 2, type=Plat, prime=108 851, depart=non]
+2021/04/20 11:57:54	Num course : 1214241
+2021/04/20 11:57:54	Num course : 1214241
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@1cd1f0a
+2021/04/20 11:57:54	Num course : 1214241
+2021/04/20 11:57:54	Num course : 1214241
+2021/04/20 11:57:54	Num course : 1214240
+2021/04/20 11:57:54	Adding course : Course [courseID=1214240, date=2021-03-28, hippodrome=  Sha Tin (Hong Kong) , reunion=6, course=6, prix=Tai Mong Tsai Handicap, type=Plat, prime=108 851, depart=non]
+2021/04/20 11:57:54	Num course : 1214240
+2021/04/20 11:57:54	Num course : 1214240
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@9ceddf
+2021/04/20 11:57:54	Num course : 1214240
+2021/04/20 11:57:54	Num course : 1214240
+2021/04/20 11:57:54	Num course : 1213801
+2021/04/20 11:57:54	Adding course : Course [courseID=1213801, date=2021-03-28, hippodrome=  Geraldton [Australie] , reunion=7, course=6, prix=Owners Only Handicap, type=Plat, prime=12 248, depart=non]
+2021/04/20 11:57:54	Num course : 1213801
+2021/04/20 11:57:54	Adding rapport : Rapport [id=null, courseID=1213801, numCheval=2, arrivee=3, place=2.3, gagnant=null]
+2021/04/20 11:57:54	Num course : 1213801
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@130a648
+2021/04/20 11:57:54	Num course : 1213801
+2021/04/20 11:57:54	Num course : 1213801
+2021/04/20 11:57:54	Num course : 1213804
+2021/04/20 11:57:54	Adding course : Course [courseID=1213804, date=2021-03-28, hippodrome=  Geraldton [Australie] , reunion=7, course=5, prix=Westspeed Platinum Handicap, type=Plat, prime=12 248, depart=non]
+2021/04/20 11:57:54	Num course : 1213804
+2021/04/20 11:57:54	Adding rapport : Rapport [id=null, courseID=1213804, numCheval=4, arrivee=3, place=2.8, gagnant=null]
+2021/04/20 11:57:54	Num course : 1213804
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@4aadf8
+2021/04/20 11:57:54	Num course : 1213804
+2021/04/20 11:57:54	Num course : 1213804
+2021/04/20 11:57:54	Num course : 1213802
+2021/04/20 11:57:54	Adding course : Course [courseID=1213802, date=2021-03-28, hippodrome=  Geraldton [Australie] , reunion=7, course=4, prix=Tc & Ashleigh Tying The Knot April 9 Handicap, type=Plat, prime=12 248, depart=non]
+2021/04/20 11:57:54	Num course : 1213802
+2021/04/20 11:57:54	Adding rapport : Rapport [id=null, courseID=1213802, numCheval=2, arrivee=3, place=4.0, gagnant=null]
+2021/04/20 11:57:54	Num course : 1213802
+2021/04/20 11:57:54	Adding arrivees : org.df4ze.courses.models.EntitiesList@16b71b4
+2021/04/20 11:57:54	Num course : 1213802
+2021/04/20 11:57:54	Num course : 1213802
+2021/04/20 11:57:55	Num course : 1213803
+2021/04/20 11:57:55	Adding course : Course [courseID=1213803, date=2021-03-28, hippodrome=  Geraldton [Australie] , reunion=7, course=3, prix=Tabtouch Handicap, type=Plat, prime=12 248, depart=non]
+2021/04/20 11:57:55	Num course : 1213803
+2021/04/20 11:57:55	Adding rapport : Rapport [id=null, courseID=1213803, numCheval=1, arrivee=2, place=1.3, gagnant=null]
+2021/04/20 11:57:55	Num course : 1213803
+2021/04/20 11:57:55	Adding arrivees : org.df4ze.courses.models.EntitiesList@8fb66f
+2021/04/20 11:57:55	Num course : 1213803
+2021/04/20 11:57:55	Num course : 1213803
+2021/04/20 11:57:55	Num course : 1214242
+2021/04/20 11:57:55	Adding course : Course [courseID=1214242, date=2021-03-28, hippodrome=  Sha Tin (Hong Kong) , reunion=6, course=8, prix=Shui Long Wo Handicap, type=Plat, prime=163 276, depart=non]
+2021/04/20 11:57:55	Num course : 1214242
+2021/04/20 11:57:55	Num course : 1214242
+2021/04/20 11:57:55	Adding arrivees : org.df4ze.courses.models.EntitiesList@121199d
+2021/04/20 11:57:55	Num course : 1214242
+2021/04/20 11:57:55	Num course : 1214242
+2021/04/20 11:57:55	Num course : 1213861
+2021/04/20 11:57:55	Adding course : Course [courseID=1213861, date=2021-03-28, hippodrome=  Agen-Le Passage , reunion=3, course=5, prix=Prix du Casino de Barbotan-Les-Thermes, type=Attelé, prime=20 000, depart=oui]
+2021/04/20 11:57:55	Num course : 1213861
+2021/04/20 11:57:55	Adding rapport : Rapport [id=null, courseID=1213861, numCheval=4, arrivee=3, place=2.4, gagnant=null]
+2021/04/20 11:57:55	Num course : 1213861
+2021/04/20 11:57:55	Adding arrivees : org.df4ze.courses.models.EntitiesList@191a2d8
+2021/04/20 11:57:55	Num course : 1213861
+2021/04/20 11:57:55	Num course : 1213861
+2021/04/20 11:57:55	Num course : 1213792
+2021/04/20 11:57:55	Adding course : Course [courseID=1213792, date=2021-03-28, hippodrome=  Düsseldorf [Allemagne] , reunion=2, course=2, prix=Und Rennverein Von 1844 e.v., type=Plat, prime=3 500, depart=non]
+2021/04/20 11:57:55	Num course : 1213792
+2021/04/20 11:57:55	Adding rapport : Rapport [id=null, courseID=1213792, numCheval=3, arrivee=3, place=2.1, gagnant=null]
+2021/04/20 11:57:55	Num course : 1213792
+2021/04/20 11:57:55	Adding arrivees : org.df4ze.courses.models.EntitiesList@1357eb6
+2021/04/20 11:57:55	Num course : 1213792
+2021/04/20 11:57:55	Num course : 1213792
+2021/04/20 11:57:55	Num course : 1213965
+2021/04/20 11:57:55	Adding course : Course [courseID=1213965, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=8, prix=Grosser Preis Der Österreichischen Lotterien, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:55	Num course : 1213965
+2021/04/20 11:57:55	Num course : 1213965
+2021/04/20 11:57:55	Num course : 1213965
+2021/04/20 11:57:55	Num course : 1213965
+2021/04/20 11:57:55	Adding cote : Cote [id=null, courseID=1213965, numCheval=1, cote=115.0, enjeux=0.7]
+2021/04/20 11:57:55	Adding cote : Cote [id=null, courseID=1213965, numCheval=2, cote=1.3, enjeux=64.1]
+2021/04/20 11:57:55	Adding cote : Cote [id=null, courseID=1213965, numCheval=3, cote=13.0, enjeux=6.4]
+2021/04/20 11:57:55	Adding cote : Cote [id=null, courseID=1213965, numCheval=4, cote=39.0, enjeux=2.1]
+2021/04/20 11:57:55	Adding cote : Cote [id=null, courseID=1213965, numCheval=5, cote=59.0, enjeux=1.4]
+2021/04/20 11:57:55	Adding cote : Cote [id=null, courseID=1213965, numCheval=6, cote=4.9, enjeux=17.0]
+2021/04/20 11:57:55	Adding cote : Cote [id=null, courseID=1213965, numCheval=7, cote=46.0, enjeux=1.8]
+2021/04/20 11:57:55	Adding cote : Cote [id=null, courseID=1213965, numCheval=8, cote=22.0, enjeux=3.8]
+2021/04/20 11:57:55	Adding cote : Cote [id=null, courseID=1213965, numCheval=9, cote=32.0, enjeux=2.6]
+2021/04/20 11:57:55	Num course : 1213964
+2021/04/20 11:57:55	Adding course : Course [courseID=1213964, date=2021-03-28, hippodrome=  Krieau [Autriche] , reunion=5, course=7, prix=Preis Von trotto.de, type=Attelé, prime=2 500, depart=oui]
+2021/04/20 11:57:55	Num course : 1213964
+2021/04/20 11:57:55	Adding rapport : Rapport [id=null, courseID=1213964, numCheval=8, arrivee=3, place=3.0, gagnant=null]
+2021/04/20 11:57:55	Num course : 1213964
+2021/04/20 11:57:55	Adding arrivees : org.df4ze.courses.models.EntitiesList@b9a3ef
+2021/04/20 11:57:55	Num course : 1213964
+2021/04/20 11:57:55	Num course : 1213964
+2021/04/20 11:57:55	Num course : 1213630
+2021/04/20 11:57:55	Adding course : Course [courseID=1213630, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=3, prix=Prix du Bocage Manceau (gr B), type=Attelé, prime=13 000, depart=non]
+2021/04/20 11:57:55	Num course : 1213630
+2021/04/20 11:57:55	Num course : 1213630
+2021/04/20 11:57:55	Num course : 1213630
+2021/04/20 11:57:55	Num course : 1213630
+2021/04/20 11:57:55	Num course : 1213625
+2021/04/20 11:57:55	Adding course : Course [courseID=1213625, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=5, prix=Prix des Corbières, type=Attelé, prime=14 000, depart=non]
+2021/04/20 11:57:55	Num course : 1213625
+2021/04/20 11:57:55	Num course : 1213625
+2021/04/20 11:57:55	Num course : 1213625
+2021/04/20 11:57:55	Num course : 1213625
+2021/04/20 11:57:55	Num course : 1213632
+2021/04/20 11:57:55	Adding course : Course [courseID=1213632, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=4, prix=Prix du Cantal, type=Attelé, prime=14 000, depart=non]
+2021/04/20 11:57:55	Num course : 1213632
+2021/04/20 11:57:55	Num course : 1213632
+2021/04/20 11:57:55	Num course : 1213632
+2021/04/20 11:57:55	Num course : 1213632
+2021/04/20 11:57:55	Num course : 1213631
+2021/04/20 11:57:55	Adding course : Course [courseID=1213631, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=8, prix=Prix du Ternois, type=Attelé, prime=5 000, depart=non]
+2021/04/20 11:57:55	Num course : 1213631
+2021/04/20 11:57:55	Num course : 1213631
+2021/04/20 11:57:55	Num course : 1213631
+2021/04/20 11:57:55	Num course : 1213631
+2021/04/20 11:57:55	Num course : 1213626
+2021/04/20 11:57:55	Adding course : Course [courseID=1213626, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=1, prix=Prix du Maconnais, type=Monté, prime=14 000, depart=non]
+2021/04/20 11:57:55	Num course : 1213626
+2021/04/20 11:57:55	Num course : 1213626
+2021/04/20 11:57:55	Num course : 1213626
+2021/04/20 11:57:55	Num course : 1213626
+2021/04/20 11:57:56	Num course : 1213627
+2021/04/20 11:57:56	Adding course : Course [courseID=1213627, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=2, prix=Prix du Bocage Manceau (gr A), type=Attelé, prime=13 000, depart=non]
+2021/04/20 11:57:56	Num course : 1213627
+2021/04/20 11:57:56	Num course : 1213627
+2021/04/20 11:57:56	Num course : 1213627
+2021/04/20 11:57:56	Num course : 1213627
+2021/04/20 11:57:56	Num course : 1213628
+2021/04/20 11:57:56	Adding course : Course [courseID=1213628, date=2021-03-28, hippodrome=  Lyon-Parilly , reunion=8, course=6, prix=Prix de l'Eure, type=Attelé, prime=15 000, depart=non]
+2021/04/20 11:57:56	Num course : 1213628
+2021/04/20 11:57:56	Num course : 1213628
+2021/04/20 11:57:56	Num course : 1213628
+2021/04/20 11:57:56	Num course : 1213628
+2021/04/20 11:57:56	Num course : 1213878
+2021/04/20 11:57:56	Adding course : Course [courseID=1213878, date=2021-03-29, hippodrome=  Saint-Cloud , reunion=1, course=1, prix=Prix de Provence, type=Plat, prime=50 000, depart=non]
+2021/04/20 11:57:56	Num course : 1213878
+2021/04/20 11:57:56	Adding rapport : Rapport [id=null, courseID=1213878, numCheval=10, arrivee=3, place=4.3, gagnant=null]
+2021/04/20 11:57:56	Num course : 1213878
+2021/04/20 11:57:56	Adding arrivees : org.df4ze.courses.models.EntitiesList@1e617c4
+2021/04/20 11:57:56	Num course : 1213878
+2021/04/20 11:57:56	Num course : 1213878

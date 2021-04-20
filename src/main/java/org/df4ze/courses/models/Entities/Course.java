@@ -30,6 +30,13 @@ public class Course extends AbstractCourseEntity {
 	}
 	
 	@Override
+	public String toString() {
+		return "Course [courseID=" + courseID + ", date=" + date + ", hippodrome=" + hippodrome + ", reunion=" + reunion
+				+ ", course=" + course + ", prix=" + prix + ", type=" + type + ", prime=" + prime + ", depart=" + depart
+				+ "]";
+	}
+
+	@Override
 	public Long getCourseID() {
 		return courseID;
 	}

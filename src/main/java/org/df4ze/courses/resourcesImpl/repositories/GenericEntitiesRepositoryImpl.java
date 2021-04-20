@@ -2,11 +2,11 @@ package org.df4ze.courses.resourcesImpl.repositories;
 
 import java.io.Serializable;
 
-import javax.annotation.Resource;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityNotFoundException;
 
 import org.df4ze.courses.resources.repositories.GenericEntitiesRepository;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.jpa.repository.support.SimpleJpaRepository;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Component;
@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class GenericEntitiesRepositoryImpl implements GenericEntitiesRepository {
 
-	@Resource
+	@Autowired
 	private transient EntityManager em;
 
 	@Override

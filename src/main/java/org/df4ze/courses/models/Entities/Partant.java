@@ -120,4 +120,11 @@ public class Partant extends AbstractCourseEntity implements Cloneable{
 		// on renvoie le clone
 		return o;
 	}
+
+	@Override
+	public String toString() {
+		return "Partant [id=" + id + ", courseID=" + courseID + ", numCheval=" + numCheval + ", nomCheval=" + nomCheval
+				+ ", ageSexe=" + ageSexe + ", musique=" + musique + ", gains=" + gains + ", iGains=" + iGains + "]";
+	}
+
 }

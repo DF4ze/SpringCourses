@@ -9,6 +9,7 @@ import org.df4ze.courses.controlers.Refactorer;
 import org.df4ze.courses.controlers.Scraper;
 import org.df4ze.courses.models.Entities.CourseComplete;
 import org.df4ze.courses.resources.Debug;
+import org.df4ze.courses.resources.Logger;
 import org.df4ze.courses.services.DB2File;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -41,6 +42,7 @@ public class LauncherTestJPA {
 
 
 			System.out.println("------ Starting --------");
+			Logger.write("\n\n -------------- Starting --------------");
 			// Create Spring application context
 			ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("classpath:*spring.xml");
 //			ClassPathXmlApplicationContext ctx = new ClassPathXmlApplicationContext("file:///home/df4ze/Bureau/spring.xml");
@@ -97,6 +99,7 @@ public class LauncherTestJPA {
 			}
 			
 			ctx.close();
+			System.out.println("------ End --------");
 
 		} catch (ParseException e) {
 			System.out.println(e.getMessage() + "\n");

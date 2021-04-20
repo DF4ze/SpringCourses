@@ -76,4 +76,10 @@ public class Rapport extends AbstractCourseEntity{
 		this.gagnant = gagnant;
 	}
 
+	@Override
+	public String toString() {
+		return "Rapport [id=" + id + ", courseID=" + courseID + ", numCheval=" + numCheval + ", arrivee=" + arrivee
+				+ ", place=" + place + ", gagnant=" + gagnant + "]";
+	}
+
 }

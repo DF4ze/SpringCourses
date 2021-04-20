@@ -62,4 +62,10 @@ public class Cote extends AbstractCourseEntity {
 		this.enjeux = enjeux;
 	}
 
+	@Override
+	public String toString() {
+		return "Cote [id=" + id + ", courseID=" + courseID + ", numCheval=" + numCheval + ", cote=" + cote + ", enjeux="
+				+ enjeux + "]";
+	}
+
 }

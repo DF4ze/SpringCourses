@@ -392,4 +392,10 @@ public class CourseComplete extends AbstractCourseEntity{
 		return courseID;
 	}
 
+	@Override
+	public String toString() {
+		return "CourseComplete [courseID=" + courseID + ", numeroCourse=" + numeroCourse + ", numeroReunion="
+				+ numeroReunion + ", hippodrome=" + hippodrome + "]";
+	}
+
 }

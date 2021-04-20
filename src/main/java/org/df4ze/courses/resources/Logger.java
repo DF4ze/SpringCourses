@@ -8,7 +8,7 @@ import java.util.Date;
 
 public class Logger {
 
-	private String path = "error.log";
+	private String path = "current.log";
 	private static FileWriter writer = null;
 	
 	private Logger() throws IOException {
@@ -17,7 +17,7 @@ public class Logger {
 		if( !log.exists() )
 			log.createNewFile();
 		
-		writer = new FileWriter(path, true);
+		writer = new FileWriter(path, false);
 		
 	}
 

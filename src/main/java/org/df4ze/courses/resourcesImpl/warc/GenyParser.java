@@ -10,6 +10,7 @@ import org.df4ze.courses.models.Entities.Course;
 import org.df4ze.courses.models.Entities.Partant;
 import org.df4ze.courses.models.Entities.Rapport;
 import org.df4ze.courses.resources.Debug;
+import org.df4ze.courses.resources.Logger;
 import org.df4ze.courses.resources.warc.WarcParser;
 import org.df4ze.courses.resourcesImpl.warc.tools.XPathTool;
 import org.jsoup.Jsoup;
@@ -88,6 +89,9 @@ public class GenyParser implements WarcParser{
 				}
 			}
 		}
+
+		Logger.write("Num course : " + longCourse);
+
 		if( Debug.isEnable() ){
 			System.out.println("*************");
 			System.out.println(url);
@@ -272,6 +276,7 @@ public class GenyParser implements WarcParser{
 		if( course != null){
 			bl = new EntitiesList();
 			bl.add(course);
+			Logger.write("Adding course : " + course);
 		}
 		
 		return bl;
@@ -387,7 +392,7 @@ public class GenyParser implements WarcParser{
 					}
 				}// for lignes
 			
-			
+				Logger.write("Adding rapport : " + rapport);
 			// nouveau tableau
 			}
 			
@@ -452,7 +457,7 @@ public class GenyParser implements WarcParser{
 			}
 
 			}
-
+			Logger.write("Adding arrivees : " + listeArrivees);
 		}
 		
 		return listeArrivees;
@@ -529,6 +534,8 @@ public class GenyParser implements WarcParser{
 							
 							cotesCourse.add(coteBean);
 							//DAORapport.create(rapport);
+
+							Logger.write("Adding cote : " + coteBean);
 						}
 					}
 				}//fin for lignes
@@ -633,6 +640,8 @@ public class GenyParser implements WarcParser{
 							
 							partantsCourse.add(partantsBean);
 							//DAORapport.create(rapport);
+
+							Logger.write("Adding cote : " + partantsCourse);
 						}
 					}
 				}//fin for lignes
