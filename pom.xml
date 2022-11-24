@@ -18,7 +18,7 @@
 		<!-- SPRING & HIBERNATE / JPA -->
 		<spring.version>4.0.0.RELEASE</spring.version>
 		<spring.data.jpa.version>1.7.1.RELEASE</spring.data.jpa.version>
-		<hibernate.version>4.1.9.Final</hibernate.version>
+		<hibernate.version>5.3.20.Final</hibernate.version>
 	</properties>
 
 	<dependencies>
